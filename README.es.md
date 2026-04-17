@@ -21,7 +21,6 @@ Este repositorio se inspira en [awesome-nano-banana-pro-prompts](https://github.
 - [Galería destacada](#featured-gallery)
 - [Biblioteca de prompts](#prompt-library)
 - [Enlaces de referencia](#reference-links)
-- [Cómo regenerar](#how-to-refresh)
 
 <a id="project-context"></a>
 ## Contexto del proyecto
@@ -41,7 +40,6 @@ A fecha de 2026-04-17, no encontramos una página oficial independiente de OpenA
 ## Resumen
 
 - Página de datos: [Toolify GPT Image 2 prompts](https://www.toolify.ai/prompts/gpt-image-2)
-- Archivo fuente: `toolify.json`
 - Archivos de salida: `README.md`, `README.zh-CN.md`, `README.zh-TW.md`, `README.ja.md`, `README.ko.md`, `README.es.md`, `README.fr.md`, `README.de.md`, `README.pt-BR.md`, `README.ru.md`
 - Etiquetas principales: `Concept Art` (22), `Portrait` (16), `Social Media Post` (14), `Photography` (13), `Typography` (12), `Anime` (9), `Influencer` (9), `App UI` (9), `Minimalism` (9), `Manga` (7), `Web Design` (6), `Cinematic Lighting` (6)
 
@@ -124,7 +122,13 @@ A fecha de 2026-04-17, no encontramos una página oficial independiente de OpenA
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Champions League Player Highlight Card](https://cdn-images.toolify.ai/x/20260417/1776414058_57676790.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776414058_57676790.jpg" alt="Champions League Player Highlight Card" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Alex Patrascu
 **Fuente:** [Abrir publicación original](https://x.com/maxescu/status/2045036186734039545)
 **Etiquetas:** Social Media Post, Infographic, Typography, Graphic Novel
@@ -144,7 +148,13 @@ standout individual performance in Champion’s League, using exact stats and ga
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Zhu Yuanzhang's Imperial Social Media Post](https://cdn-images.toolify.ai/x/20260417/1776414058_40654005.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776414058_40654005.jpg" alt="Zhu Yuanzhang's Imperial Social Media Post" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 李岳
 **Fuente:** [Abrir publicación original](https://x.com/liyue_ai/status/2045021302315249738)
 **Etiquetas:** Social Media Post, App UI, Web Design, Concept Art
@@ -164,7 +174,13 @@ standout individual performance in Champion’s League, using exact stats and ga
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Ancient General's Social Media Feud](https://cdn-images.toolify.ai/x/20260417/1776389439_23079856.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389439_23079856.jpg" alt="Ancient General's Social Media Feud" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Unknown
 **Fuente:** [Abrir publicación original](https://x.com/SKA_Neotype/status/2044637900978217334)
 **Etiquetas:** Social Media Post, Concept Art, App UI
@@ -184,7 +200,13 @@ standout individual performance in Champion’s League, using exact stats and ga
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Chinese Influencer Live Stream Interface](https://cdn-images.toolify.ai/x/20260417/1776389433_87062545.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389433_87062545.jpg" alt="Chinese Influencer Live Stream Interface" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 水木易
 **Fuente:** [Abrir publicación original](https://x.com/ohmuyi/status/2044725395162107957)
 **Etiquetas:** Social Media Post, Influencer, Portrait, Photography
@@ -204,7 +226,13 @@ standout individual performance in Champion’s League, using exact stats and ga
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Historical Figure's Modern Social Feed](https://cdn-images.toolify.ai/x/20260417/1776389436_98041774.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389436_98041774.jpg" alt="Historical Figure's Modern Social Feed" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 中崎工房 | AIで1時間の仕事を5分で終わらせる人
 **Fuente:** [Abrir publicación original](https://x.com/nakazakifam/status/2044653370036674623)
 **Etiquetas:** Social Media Post, Web Design, Influencer, Portrait
@@ -224,7 +252,13 @@ standout individual performance in Champion’s League, using exact stats and ga
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Livestream Screenshot with Celebrity Feature](https://cdn-images.toolify.ai/x/20260417/1776389429_84662456.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389429_84662456.jpg" alt="Livestream Screenshot with Celebrity Feature" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 世界是棵树
 **Fuente:** [Abrir publicación original](https://x.com/alanblogsooo/status/2044784762594918516)
 **Etiquetas:** Social Media Post, Influencer, Portrait, Typography
@@ -244,7 +278,13 @@ standout individual performance in Champion’s League, using exact stats and ga
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Douyin Livestream Beauty Screenshot](https://cdn-images.toolify.ai/x/20260417/1776389429_72434068.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389429_72434068.jpg" alt="Douyin Livestream Beauty Screenshot" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 渣猫看世界🦭/acc
 **Fuente:** [Abrir publicación original](https://x.com/xzjken/status/2044802665390215182)
 **Etiquetas:** Social Media Post, Influencer, Fashion Model, Portrait, Cinematic Lighting
@@ -264,7 +304,13 @@ standout individual performance in Champion’s League, using exact stats and ga
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Oda Nobunaga's Final Social Media Post](https://cdn-images.toolify.ai/x/20260417/1776389415_99904494.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389415_99904494.jpg" alt="Oda Nobunaga's Final Social Media Post" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** IT navi
 **Fuente:** [Abrir publicación original](https://x.com/itnavi2022/status/2044592146255352100)
 **Etiquetas:** Social Media Post, Web Design, App UI, Concept Art
@@ -286,7 +332,13 @@ standout individual performance in Champion’s League, using exact stats and ga
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Three-View Character Concept Sheet](https://cdn-images.toolify.ai/x/20260417/1776416020_54463725.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776416020_54463725.jpg" alt="Three-View Character Concept Sheet" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 夕空ゆう
 **Fuente:** [Abrir publicación original](https://x.com/yuzora_yu/status/2045053904262668658)
 **Etiquetas:** Concept Art, Storyboard, Manga, Anime
@@ -306,7 +358,13 @@ standout individual performance in Champion’s League, using exact stats and ga
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Professional Character Concept Sheet Guide](https://cdn-images.toolify.ai/x/20260417/1776412317_98374223.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776412317_98374223.jpg" alt="Professional Character Concept Sheet Guide" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 古一
 **Fuente:** [Abrir publicación original](https://x.com/MANISH1027512/status/2045013913901867334)
 **Etiquetas:** Concept Art, Diagram, Infographic, Flat Illustration
@@ -330,7 +388,13 @@ standout individual performance in Champion’s League, using exact stats and ga
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Professional Character Concept Design Sheet](https://cdn-images.toolify.ai/x/20260417/1776412317_16841496.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776412317_16841496.jpg" alt="Professional Character Concept Design Sheet" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Kus🌱
 **Fuente:** [Abrir publicación original](https://x.com/tamayo888/status/2044814686701678977)
 **Etiquetas:** Concept Art, Diagram, Front View, Full Body Character
@@ -350,7 +414,13 @@ standout individual performance in Champion’s League, using exact stats and ga
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![GPT Image Setting Sheet Style](https://cdn-images.toolify.ai/x/20260417/1776398238_89739845.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776398238_89739845.jpg" alt="GPT Image Setting Sheet Style" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** jaizard
 **Fuente:** [Abrir publicación original](https://x.com/jaizard1/status/2044730387218436127)
 **Etiquetas:** Concept Art, Storyboard, Diagram, Minimalism
@@ -370,7 +440,13 @@ Setting sheet style, character design sheet, technical specifications, clean lay
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Link's Custom E531 Series Train](https://cdn-images.toolify.ai/x/20260417/1776392868_26630388.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776392868_26630388.jpg" alt="Link's Custom E531 Series Train" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** can
 **Fuente:** [Abrir publicación original](https://x.com/marmaduke091/status/2040820686751432990)
 **Etiquetas:** Concept Art, Game Asset, Fantasy, Vehicle, 3D Render
@@ -392,7 +468,13 @@ In the game Zelda totk link is in a e531 series train made by him
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Chinese Cursive Calligraphy Poetry](https://cdn-images.toolify.ai/x/20260417/1776389441_58973370.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389441_58973370.jpg" alt="Chinese Cursive Calligraphy Poetry" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** XiaoAn
 **Fuente:** [Abrir publicación original](https://x.com/Xiaoan_XA/status/2040725594573529330)
 **Etiquetas:** Typography, Ink Wash, Chinese Painting, Monochrome
@@ -412,7 +494,13 @@ In the game Zelda totk link is in a e531 series train made by him
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Stunning Typography with GPT-image-2](https://cdn-images.toolify.ai/x/20260417/1776389427_45788877.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389427_45788877.jpg" alt="Stunning Typography with GPT-image-2" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** AlainYe
 **Fuente:** [Abrir publicación original](https://x.com/AaronAlainYe/status/2044795817270374888)
 **Etiquetas:** Typography, Poster, Graphic Novel, Futuristic
@@ -432,7 +520,13 @@ In the game Zelda totk link is in a e531 series train made by him
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Carbon Fibre Typography Performance](https://cdn-images.toolify.ai/x/20260417/1776389423_48858473.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389423_48858473.jpg" alt="Carbon Fibre Typography Performance" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** SRKDAN
 **Fuente:** [Abrir publicación original](https://x.com/SRKDAN/status/2043871921889001824)
 **Etiquetas:** Typography, Texture, Electronics, Macro Photography, 3D Render
@@ -452,7 +546,13 @@ Typography where every letterform is woven from carbon fibre. Tactile, direction
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![GPT-image-2 Layout and Design Mastery](https://cdn-images.toolify.ai/x/20260417/1776389424_63204293.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389424_63204293.jpg" alt="GPT-image-2 Layout and Design Mastery" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Larus Canus
 **Fuente:** [Abrir publicación original](https://x.com/MrLarus/status/2044820495636312494)
 **Etiquetas:** Typography, Magazine Cover, Infographic, Graphic Novel, Food
@@ -475,7 +575,13 @@ Typography where every letterform is woven from carbon fibre. Tactile, direction
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Refracted Sans Crystal Typeface](https://cdn-images.toolify.ai/x/20260417/1776389420_69082680.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389420_69082680.jpg" alt="Refracted Sans Crystal Typeface" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** SRKDAN
 **Fuente:** [Abrir publicación original](https://x.com/SRKDAN/status/2044234296307614155)
 **Etiquetas:** Typography, 3D Render, Macro Photography, Cinematic Lighting, Texture
@@ -497,7 +603,13 @@ A crystal-glass typeface where light splits through each letterform into its own
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Anime Character Idol Design Sheet](https://cdn-images.toolify.ai/x/20260417/1776416577_40818373.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776416577_40818373.jpg" alt="Anime Character Idol Design Sheet" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** WTR
 **Fuente:** [Abrir publicación original](https://x.com/wtry1102/status/2044984378250711306)
 **Etiquetas:** Anime, Concept Art, Flat Illustration, Full Body Character, Manga
@@ -517,7 +629,13 @@ anime character idol design sheet, character reference sheet, multiple views, co
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Anime Snapshot Aesthetic](https://cdn-images.toolify.ai/x/20260417/1776414058_64132488.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776414058_64132488.jpg" alt="Anime Snapshot Aesthetic" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Thereallo
 **Fuente:** [Abrir publicación original](https://x.com/Thereallo1026/status/2044241997163311569)
 **Etiquetas:** Anime, Concept Art, Film Still, Cinematic
@@ -537,7 +655,13 @@ Show me the attached image as a snapshot from an actual anime
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Anime Duel: Two Bound Girls](https://cdn-images.toolify.ai/x/20260417/1776389420_40455466.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389420_40455466.jpg" alt="Anime Duel: Two Bound Girls" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** IT navi
 **Fuente:** [Abrir publicación original](https://x.com/itnavi2022/status/2044412394760507521)
 **Etiquetas:** Anime, Manga, Couple, Concept Art, Storybook Illustration
@@ -557,7 +681,13 @@ Show me the attached image as a snapshot from an actual anime
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Anna Yanami Anime Portrait](https://cdn-images.toolify.ai/x/20260417/1776389414_68008802.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389414_68008802.jpg" alt="Anna Yanami Anime Portrait" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Mirochill
 **Fuente:** [Abrir publicación original](https://x.com/mirochill/status/2044767077131522309)
 **Etiquetas:** Anime, Manga, Portrait, Concept Art
@@ -579,7 +709,13 @@ Anna from the anime Makeine
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Vibrant Youthful Portrait in Neon Night](https://cdn-images.toolify.ai/x/20260417/1776416524_38419432.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776416524_38419432.jpg" alt="Vibrant Youthful Portrait in Neon Night" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** John
 **Fuente:** [Abrir publicación original](https://x.com/johnAGI168/status/2044985082868281487)
 **Etiquetas:** Portrait, Influencer, Neon Light, Photography, Bokeh
@@ -599,7 +735,13 @@ A 22-year-old East Asian girl, round youthful face, large bright doe eyes with n
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Korean Idol Tennis Editorial Portrait](https://cdn-images.toolify.ai/x/20260417/1776389443_67560166.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389443_67560166.jpg" alt="Korean Idol Tennis Editorial Portrait" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Unknown
 **Fuente:** [Abrir publicación original](https://x.com/BubbleBrain/status/2044846335728467996)
 **Etiquetas:** Portrait, Fashion Photography, Studio Lighting, Minimalism, Fashion Model
@@ -619,7 +761,13 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Natural Portrait Comparison](https://cdn-images.toolify.ai/x/20260417/1776389417_83764869.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389417_83764869.jpg" alt="Natural Portrait Comparison" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Patrick
 **Fuente:** [Abrir publicación original](https://x.com/patrickassale/status/2044581766309060765)
 **Etiquetas:** Portrait, Photography, Cinematic Lighting, Natural Light, Concept Art
@@ -639,7 +787,13 @@ Midjourney 8.1 vs GPT Image 2 comparison, natural lighting, high resolution port
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Analog High-Fashion Police Editorial Portrait](https://cdn-images.toolify.ai/x/20260417/1776389412_10595928.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389412_10595928.jpg" alt="Analog High-Fashion Police Editorial Portrait" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** BubbleBrain
 **Fuente:** [Abrir publicación original](https://x.com/BubbleBrain/status/2044705257004093537)
 **Etiquetas:** Portrait, Fashion Photography, Photography, Magazine Cover, Worm's Eye View
@@ -661,7 +815,13 @@ Analog 35mm film photography, high-fashion editorial portrait with intense on-ca
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Minimalist Seamless Leather Wallet](https://cdn-images.toolify.ai/x/20260417/1776389413_85673449.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389413_85673449.jpg" alt="Minimalist Seamless Leather Wallet" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** SRKDAN
 **Fuente:** [Abrir publicación original](https://x.com/SRKDAN/status/2044664616257487266)
 **Etiquetas:** Consumer Product, Minimalism, Product Mockup, Macro Photography, Texture
@@ -681,7 +841,13 @@ A leather wallet with no stitching, no clasp, no visible opening.
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![The Crownless Minimalist Watch](https://cdn-images.toolify.ai/x/20260417/1776389411_34913115.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389411_34913115.jpg" alt="The Crownless Minimalist Watch" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** SRKDAN
 **Fuente:** [Abrir publicación original](https://x.com/SRKDAN/status/2044660755031544028)
 **Etiquetas:** Consumer Product, Electronics, Minimalism, Futuristic, Product Mockup
@@ -701,7 +867,13 @@ A watch with no crown, no buttons — a sealed case that sets itself.
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![The Capless Perfume Bottle](https://cdn-images.toolify.ai/x/20260417/1776389410_84531516.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389410_84531516.jpg" alt="The Capless Perfume Bottle" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** SRKDAN
 **Fuente:** [Abrir publicación original](https://x.com/SRKDAN/status/2044652764945338452)
 **Etiquetas:** Consumer Product, Packaging Design, Surrealism, Product Mockup, CGI
@@ -723,7 +895,13 @@ A bottle with no opening — scent releases through the glass itself.
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Chinese Style Livestreamer Interface](https://cdn-images.toolify.ai/x/20260417/1776399721_72228592.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776399721_72228592.jpg" alt="Chinese Style Livestreamer Interface" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 0x吴墨染
 **Fuente:** [Abrir publicación original](https://x.com/buffdoge_eth/status/2044974527650865207)
 **Etiquetas:** Influencer, Social Media Post, Portrait, Chinese Painting, Cinematic Lighting
@@ -743,7 +921,13 @@ A bottle with no opening — scent releases through the glass itself.
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Influencer Live Streaming Interface](https://cdn-images.toolify.ai/x/20260417/1776389446_35000737.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389446_35000737.jpg" alt="Influencer Live Streaming Interface" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Dark
 **Fuente:** [Abrir publicación original](https://x.com/Daein199X/status/2044889438548033657)
 **Etiquetas:** Influencer, Social Media Post, Portrait, App UI
@@ -763,7 +947,13 @@ A bottle with no opening — scent releases through the glass itself.
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Douyin Livestream Influencer Portrait](https://cdn-images.toolify.ai/x/20260417/1776389431_46164671.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389431_46164671.jpg" alt="Douyin Livestream Influencer Portrait" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Gorden Sun
 **Fuente:** [Abrir publicación original](https://x.com/Gorden_Sun/status/2044716675283747299)
 **Etiquetas:** Influencer, Social Media Post, Portrait, Photography
@@ -785,7 +975,13 @@ A screenshot of a Douyin livestream, 9:16 aspect ratio, featuring a beautiful wo
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Vintage Amalfi Coast Travel Poster](https://cdn-images.toolify.ai/x/20260417/1776389416_89205812.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389416_89205812.jpg" alt="Vintage Amalfi Coast Travel Poster" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Riccardo Wolf
 **Fuente:** [Abrir publicación original](https://x.com/WolfRiccardo/status/2044562722491121718)
 **Etiquetas:** Poster, Landscape, Vintage, Retro, Car
@@ -805,7 +1001,13 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Urban Intellectual Gorilla Movie Poster](https://cdn-images.toolify.ai/x/20260417/1776389439_61130739.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389439_61130739.jpg" alt="Urban Intellectual Gorilla Movie Poster" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Unknown
 **Fuente:** [Abrir publicación original](https://x.com/TAMAnoASOBIBA/status/2044634519928783238)
 **Etiquetas:** Poster, Animal, Cinematic, Cityscape, Concept Art
@@ -846,7 +1048,13 @@ handwritten notes, realistic ads, posters, anime art
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![3D Dynamic X Profile Breakthrough](https://cdn-images.toolify.ai/x/20260417/1776412542_51903913.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776412542_51903913.jpg" alt="3D Dynamic X Profile Breakthrough" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** ShyNloc
 **Fuente:** [Abrir publicación original](https://x.com/shynloc/status/2044850179099263348)
 **Etiquetas:** 3D Render, App UI, Social Media Post, Studio Lighting, Minimalism
@@ -866,7 +1074,13 @@ Ultra-realistic 3D Twitter/X profile interface illustration, slightly tilted, cl
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![3D Social Media Breakthrough Design](https://cdn-images.toolify.ai/x/20260417/1776389426_92548719.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389426_92548719.jpg" alt="3D Social Media Breakthrough Design" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 李岳
 **Fuente:** [Abrir publicación original](https://x.com/liyue_ai/status/2044800343280906522)
 **Etiquetas:** 3D Render, Social Media Post, App UI, Papercraft, Studio Lighting
@@ -888,7 +1102,13 @@ A hyper-realistic 3D illustration of a Twitter/X profile interface, slightly til
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Professional iOS App Interface Design](https://cdn-images.toolify.ai/x/20260417/1776414058_35175824.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776414058_35175824.jpg" alt="Professional iOS App Interface Design" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** AB Kuai.Dong
 **Fuente:** [Abrir publicación original](https://x.com/_FORAB/status/2045017289335144743)
 **Etiquetas:** App UI, Web Design, Product Mockup, Minimalism
@@ -908,7 +1128,13 @@ Render a professional IOS APP page image, similar to Binance, professional-grade
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![ChatGPT Music Generator Interface](https://cdn-images.toolify.ai/x/20260417/1776389416_77385723.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389416_77385723.jpg" alt="ChatGPT Music Generator Interface" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Patrick
 **Fuente:** [Abrir publicación original](https://x.com/patrickassale/status/2044492063752794239)
 **Etiquetas:** App UI, Web Design, Minimalism, Electronics
@@ -930,7 +1156,13 @@ Screenshot of a music generator feature inside ChatGPT
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Mystical Miao Maiden in Forest](https://cdn-images.toolify.ai/x/20260417/1776416484_67256173.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776416484_67256173.jpg" alt="Mystical Miao Maiden in Forest" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 不等 AI 离子
 **Fuente:** [Abrir publicación original](https://x.com/alupbn121/status/2045040830227050885)
 **Etiquetas:** Cinematic, Film Still, Fantasy, Forest, Portrait
@@ -950,7 +1182,13 @@ Screenshot of a music generator feature inside ChatGPT
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![GTA 6 Style Urban Realism](https://cdn-images.toolify.ai/x/20260417/1776389449_22851335.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389449_22851335.jpg" alt="GTA 6 Style Urban Realism" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** can
 **Fuente:** [Abrir publicación original](https://x.com/marmaduke091/status/2044909851852030420)
 **Etiquetas:** Cinematic, Cityscape, Game Asset, Concept Art, Cinematic Lighting
@@ -972,7 +1210,13 @@ GTA 6 style cinematic scene, urban environment, high fidelity, hyper-realistic l
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Stellar Blade: Eve's Holiday Battle](https://cdn-images.toolify.ai/x/20260417/1776414058_26733979.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776414058_26733979.jpg" alt="Stellar Blade: Eve's Holiday Battle" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 李岳
 **Fuente:** [Abrir publicación original](https://x.com/liyue_ai/status/2045034001430413550)
 **Etiquetas:** Game Asset, Cinematic, Monster, Sci-Fi, Concept Art
@@ -992,7 +1236,13 @@ GTA 6 style cinematic scene, urban environment, high fidelity, hyper-realistic l
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Discord Mod Simulator Game Cover](https://cdn-images.toolify.ai/x/20260417/1776389418_40975601.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389418_40975601.jpg" alt="Discord Mod Simulator Game Cover" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Mirochill
 **Fuente:** [Abrir publicación original](https://x.com/mirochill/status/2044366023122464816)
 **Etiquetas:** Game Asset, Full Body Character, Concept Art, Anime
@@ -1014,7 +1264,13 @@ Cover switch game : Discord Mod Simulator
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![AI Company Comparison Infographic](https://cdn-images.toolify.ai/x/20260417/1776392868_75045988.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776392868_75045988.jpg" alt="AI Company Comparison Infographic" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 柯基是只猫
 **Fuente:** [Abrir publicación original](https://x.com/Keji715/status/2044740949859828058)
 **Etiquetas:** Infographic, Diagram, Chart, Presentation Slide
@@ -1034,7 +1290,13 @@ Cover switch game : Discord Mod Simulator
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![High-Density Informational Illustration](https://cdn-images.toolify.ai/x/20260417/1776389424_41760738.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389424_41760738.jpg" alt="High-Density Informational Illustration" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Unknown
 **Fuente:** [Abrir publicación original](https://x.com/GeekCatX/status/2044808405165248691)
 **Etiquetas:** Infographic, Diagram, Typography, Presentation Slide, Concept Art
@@ -1056,7 +1318,13 @@ high-density information infographic style, detailed illustrated guide style
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![One-Shot AI Manga Generation](https://cdn-images.toolify.ai/x/20260417/1776389438_68222450.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389438_68222450.jpg" alt="One-Shot AI Manga Generation" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** らけしで / Mizmic Studio
 **Fuente:** [Abrir publicación original](https://x.com/lakeside529/status/2044645377392193602)
 **Etiquetas:** Manga, Comic Book, Storyboard, Concept Art, Anime
@@ -1076,7 +1344,13 @@ high-density information infographic style, detailed illustrated guide style
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Hatsune Miku vs. Monstrous Threat](https://cdn-images.toolify.ai/x/20260417/1776389437_83992847.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389437_83992847.jpg" alt="Hatsune Miku vs. Monstrous Threat" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 海馬れいしょ@AI同人
 **Fuente:** [Abrir publicación original](https://x.com/visual_memory_/status/2044655616992621023)
 **Etiquetas:** Manga, Comic Book, Storyboard, Monster, Anime
@@ -1098,7 +1372,13 @@ high-density information infographic style, detailed illustrated guide style
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![A Thousand-Word Realistic Handwritten Diary](https://cdn-images.toolify.ai/x/20260417/1776414058_38013953.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776414058_38013953.jpg" alt="A Thousand-Word Realistic Handwritten Diary" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** ZOOZOO的赛博空间
 **Fuente:** [Abrir publicación original](https://x.com/zoozoo_ai/status/2045037793869693319)
 **Etiquetas:** Photography, Documentary Photography, Typography, Minimalism
@@ -1118,7 +1398,13 @@ high-density information infographic style, detailed illustrated guide style
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Natural Handwritten Notebook Study](https://cdn-images.toolify.ai/x/20260417/1776389415_34695802.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389415_34695802.jpg" alt="Natural Handwritten Notebook Study" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Patrick
 **Fuente:** [Abrir publicación original](https://x.com/patrickassale/status/2044569086013718958)
 **Etiquetas:** Photography, Documentary Photography, Natural Light, Texture, Interior Design
@@ -1140,7 +1426,13 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Natural Golden Hour Mirror Selfie](https://cdn-images.toolify.ai/x/20260417/1776404938_86368844.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776404938_86368844.jpg" alt="Natural Golden Hour Mirror Selfie" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Shinning
 **Fuente:** [Abrir publicación original](https://x.com/Shinning1010/status/2045002808903020962)
 **Etiquetas:** Selfie, Portrait, Golden Hour, Natural Light, Bokeh
@@ -1160,7 +1452,13 @@ A stunning 18-year-old Chinese girl with a youthful, pure face and realistic ski
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Paul Rudd Celebrity Selfie](https://cdn-images.toolify.ai/x/20260417/1776392868_85678627.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776392868_85678627.jpg" alt="Paul Rudd Celebrity Selfie" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** pozitiv4ik
 **Fuente:** [Abrir publicación original](https://x.com/Gc_qube/status/1998474719176380537)
 **Etiquetas:** Selfie, Portrait, Photography, Natural Light, Influencer
@@ -1182,7 +1480,13 @@ Photo with {celebrities}.Taking a selfie: Paul Rudd (in the center).(show the se
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Candid Accidental Automotive Photography](https://cdn-images.toolify.ai/x/20260417/1776416611_30142643.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776416611_30142643.jpg" alt="Candid Accidental Automotive Photography" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Riccardo Wolf
 **Fuente:** [Abrir publicación original](https://x.com/WolfRiccardo/status/2044564744095379476)
 **Etiquetas:** Car, Street Photography, Photography, Documentary Photography, Street View
@@ -1204,7 +1508,13 @@ Ultra-realistic candid automotive photograph that does NOT look staged or intent
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Modern Couple in Acrylic Watercolor Style](https://cdn-images.toolify.ai/x/20260417/1776389432_79682682.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389432_79682682.jpg" alt="Modern Couple in Acrylic Watercolor Style" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** sasakura｜宅録ナレーター×占星術×AI愛好家🇯🇵
 **Fuente:** [Abrir publicación original](https://x.com/saskr_13/status/2044744396932079934)
 **Etiquetas:** Couple, Manga, Acrylic Paint, Watercolor, Oil Painting
@@ -1226,7 +1536,13 @@ Acrylic watercolor oil painting + modern mature couple, shoujo manga style, not 
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![iPhone Keynote at Apple Park](https://cdn-images.toolify.ai/x/20260417/1776389414_81906719.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389414_81906719.jpg" alt="iPhone Keynote at Apple Park" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Patrick
 **Fuente:** [Abrir publicación original](https://x.com/patrickassale/status/2044687244368441742)
 **Etiquetas:** Crowd, Electronics, Architecture, Photography, Documentary Photography
@@ -1248,7 +1564,13 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Seasons of the Soulful Eye](https://cdn-images.toolify.ai/x/20260417/1776404938_11811534.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776404938_11811534.jpg" alt="Seasons of the Soulful Eye" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 李岳
 **Fuente:** [Abrir publicación original](https://x.com/liyue_ai/status/2045000106919997637)
 **Etiquetas:** Extreme Close-up, Typography, Fantasy, Macro Photography, Cinematic Lighting
@@ -1280,7 +1602,13 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Minimalist Seamless Jacket Design](https://cdn-images.toolify.ai/x/20260417/1776389410_60264449.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389410_60264449.jpg" alt="Minimalist Seamless Jacket Design" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** SRKDAN
 **Fuente:** [Abrir publicación original](https://x.com/SRKDAN/status/2044658491592257866)
 **Etiquetas:** Fashion Apparel, Minimalism, Futuristic, Consumer Product, Concept Art
@@ -1302,7 +1630,13 @@ A jacket with no zip, no buttons, no fastening — closes perfectly.
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Avant-Garde Studio Leather Fashion Portrait](https://cdn-images.toolify.ai/x/20260417/1776414058_50339955.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776414058_50339955.jpg" alt="Avant-Garde Studio Leather Fashion Portrait" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Wicked Viper
 **Fuente:** [Abrir publicación original](https://x.com/404_WICKEDVIPER/status/2031980498030116937)
 **Etiquetas:** Fashion Photography, Full Body Shot, Studio Lighting, Photography, Gradient Background
@@ -1324,7 +1658,13 @@ a full body shot in a studio shows an avant garde angle of a woman bending backw
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![2026 Landscape and Almanac Calendars](https://cdn-images.toolify.ai/x/20260417/1776389427_32009933.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389427_32009933.jpg" alt="2026 Landscape and Almanac Calendars" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** WY
 **Fuente:** [Abrir publicación original](https://x.com/akokoi1/status/2044789531615056175)
 **Etiquetas:** Landscape, Typography, Photography, Vintage, Poster
@@ -1347,7 +1687,13 @@ a full body shot in a studio shows an avant garde angle of a woman bending backw
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Mona Lisa Drinking Cola Oil Painting](https://cdn-images.toolify.ai/x/20260417/1776416020_80160726.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776416020_80160726.jpg" alt="Mona Lisa Drinking Cola Oil Painting" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** 李岳
 **Fuente:** [Abrir publicación original](https://x.com/liyue_ai/status/2045058142858555733)
 **Etiquetas:** Oil Painting, Portrait, Beverage, Surrealism
@@ -1369,7 +1715,13 @@ a full body shot in a studio shows an avant garde angle of a woman bending backw
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![GPT Image 2 Magazine Feature](https://cdn-images.toolify.ai/x/20260417/1776389421_86934964.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776389421_86934964.jpg" alt="GPT Image 2 Magazine Feature" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** Patrick
 **Fuente:** [Abrir publicación original](https://x.com/patrickassale/status/2043755728624562398)
 **Etiquetas:** Product Mockup, Magazine Cover, Photography, Documentary Photography
@@ -1391,7 +1743,13 @@ Amateur phone photo of an open magazine spread across two pages, featuring an ar
 <details open>
 <summary>Ver prompt, vista previa y metadatos</summary>
 
-![Historical Figure's Modern Profile Mockup](https://cdn-images.toolify.ai/x/20260417/1776399721_68753995.jpg)
+<table>
+  <tr>
+    <td align="center" width="380">
+      <img src="https://cdn-images.toolify.ai/x/20260417/1776399721_68753995.jpg" alt="Historical Figure's Modern Profile Mockup" width="360" />
+    </td>
+  </tr>
+</table>
 **Autor:** まるめろ｜オリジナルAI音楽 / アニソン風J-POP
 **Fuente:** [Abrir publicación original](https://x.com/marumero_music/status/2044971455717560820)
 **Etiquetas:** Web Design, Social Media Post, App UI, Concept Art
@@ -1414,12 +1772,3 @@ Amateur phone photo of an open magazine spread across two pages, featuring an ar
 - [X discussion: SuguruKun on Arena codenames (2026-04-04)](https://x.com/SuguruKun_ai/status/1908076381772595365)
 - [X discussion: TeksEdge on GPT-Image-2 rumors (2026-04-04)](https://x.com/TeksEdge/status/1908148029183834246)
 - [X discussion: techCaramba on anonymous Arena models (2026-04-04)](https://x.com/techCaramba/status/1908155410332618977)
-
-<a id="how-to-refresh"></a>
-## Cómo regenerar
-
-Ejecuta el generador después de actualizar `toolify.json`:
-
-```bash
-python scripts/generate_readme.py
-```
