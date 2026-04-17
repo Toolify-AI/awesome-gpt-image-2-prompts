@@ -129,10 +129,11 @@
     </td>
   </tr>
 </table>
-**Автор:** Alex Patrascu
-**Источник:** [Открыть оригинальный пост](https://x.com/maxescu/status/2045036186734039545)
-**Теги:** Social Media Post, Infographic, Typography, Graphic Novel
-**Обновлено:** 2026-04-17
+
+- **Автор:** Alex Patrascu
+- **Источник:** [Открыть оригинальный пост](https://x.com/maxescu/status/2045036186734039545)
+- **Теги:** Social Media Post, Infographic, Typography, Graphic Novel
+- **Обновлено:** 2026-04-17
 
 ```text
 standout individual performance in Champion’s League, using exact stats and game summary, bold team colors, legible score breakdown, Highlight card
@@ -155,10 +156,11 @@ standout individual performance in Champion’s League, using exact stats and ga
     </td>
   </tr>
 </table>
-**Автор:** 李岳
-**Источник:** [Открыть оригинальный пост](https://x.com/liyue_ai/status/2045021302315249738)
-**Теги:** Social Media Post, App UI, Web Design, Concept Art
-**Обновлено:** 2026-04-17
+
+- **Автор:** 李岳
+- **Источник:** [Открыть оригинальный пост](https://x.com/liyue_ai/status/2045021302315249738)
+- **Теги:** Social Media Post, App UI, Web Design, Concept Art
+- **Обновлено:** 2026-04-17
 
 ```text
 创建一个明朝朱元璋登基之后的X帖子页面
@@ -181,10 +183,11 @@ standout individual performance in Champion’s League, using exact stats and ga
     </td>
   </tr>
 </table>
-**Автор:** Unknown
-**Источник:** [Открыть оригинальный пост](https://x.com/SKA_Neotype/status/2044637900978217334)
-**Теги:** Social Media Post, Concept Art, App UI
-**Обновлено:** 2026-04-17
+
+- **Автор:** Unknown
+- **Источник:** [Открыть оригинальный пост](https://x.com/SKA_Neotype/status/2044637900978217334)
+- **Теги:** Social Media Post, Concept Art, App UI
+- **Обновлено:** 2026-04-17
 
 ```text
 태조 이성계의 X 페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)
@@ -207,10 +210,11 @@ standout individual performance in Champion’s League, using exact stats and ga
     </td>
   </tr>
 </table>
-**Автор:** 水木易
-**Источник:** [Открыть оригинальный пост](https://x.com/ohmuyi/status/2044725395162107957)
-**Теги:** Social Media Post, Influencer, Portrait, Photography
-**Обновлено:** 2026-04-17
+
+- **Автор:** 水木易
+- **Источник:** [Открыть оригинальный пост](https://x.com/ohmuyi/status/2044725395162107957)
+- **Теги:** Social Media Post, Influencer, Portrait, Photography
+- **Обновлено:** 2026-04-17
 
 ```text
 生成一个抖音直播的截图，一个中国美女正在直播，美女手里拿着牌子，上面写着：感谢水木易大哥的大游艇！图片比例9:16
@@ -233,10 +237,11 @@ standout individual performance in Champion’s League, using exact stats and ga
     </td>
   </tr>
 </table>
-**Автор:** 中崎工房 | AIで1時間の仕事を5分で終わらせる人
-**Источник:** [Открыть оригинальный пост](https://x.com/nakazakifam/status/2044653370036674623)
-**Теги:** Social Media Post, Web Design, Influencer, Portrait
-**Обновлено:** 2026-04-17
+
+- **Автор:** 中崎工房 | AIで1時間の仕事を5分で終わらせる人
+- **Источник:** [Открыть оригинальный пост](https://x.com/nakazakifam/status/2044653370036674623)
+- **Теги:** Social Media Post, Web Design, Influencer, Portrait
+- **Обновлено:** 2026-04-17
 
 ```text
 日本の将来について熱く語る坂本龍馬のX投稿ページを作成して
@@ -259,10 +264,11 @@ standout individual performance in Champion’s League, using exact stats and ga
     </td>
   </tr>
 </table>
-**Автор:** 世界是棵树
-**Источник:** [Открыть оригинальный пост](https://x.com/alanblogsooo/status/2044784762594918516)
-**Теги:** Social Media Post, Influencer, Portrait, Typography
-**Обновлено:** 2026-04-17
+
+- **Автор:** 世界是棵树
+- **Источник:** [Открыть оригинальный пост](https://x.com/alanblogsooo/status/2044784762594918516)
+- **Теги:** Social Media Post, Influencer, Portrait, Typography
+- **Обновлено:** 2026-04-17
 
 ```text
 9:16 aspect ratio, a screenshot of a Douyin livestream, featuring Liu Yifei livestreaming, Liu Yifei holding a sign in her hand, the sign says "今晚直播，欢迎来参亦菲畅聊！"
@@ -285,10 +291,11 @@ standout individual performance in Champion’s League, using exact stats and ga
     </td>
   </tr>
 </table>
-**Автор:** 渣猫看世界🦭/acc
-**Источник:** [Открыть оригинальный пост](https://x.com/xzjken/status/2044802665390215182)
-**Теги:** Social Media Post, Influencer, Fashion Model, Portrait, Cinematic Lighting
-**Обновлено:** 2026-04-17
+
+- **Автор:** 渣猫看世界🦭/acc
+- **Источник:** [Открыть оригинальный пост](https://x.com/xzjken/status/2044802665390215182)
+- **Теги:** Social Media Post, Influencer, Fashion Model, Portrait, Cinematic Lighting
+- **Обновлено:** 2026-04-17
 
 ```text
 9:16的图片比例，生成一个抖音直播的截图 里面是一个美女在直播，美女手里拿着牌子，上面写着：谢谢渣猫大哥的大火箭！
@@ -311,10 +318,11 @@ standout individual performance in Champion’s League, using exact stats and ga
     </td>
   </tr>
 </table>
-**Автор:** IT navi
-**Источник:** [Открыть оригинальный пост](https://x.com/itnavi2022/status/2044592146255352100)
-**Теги:** Social Media Post, Web Design, App UI, Concept Art
-**Обновлено:** 2026-04-17
+
+- **Автор:** IT navi
+- **Источник:** [Открыть оригинальный пост](https://x.com/itnavi2022/status/2044592146255352100)
+- **Теги:** Social Media Post, Web Design, App UI, Concept Art
+- **Обновлено:** 2026-04-17
 
 ```text
 織田信長のX投稿ページ(本能寺の変直前)を作成してください。
@@ -339,10 +347,11 @@ standout individual performance in Champion’s League, using exact stats and ga
     </td>
   </tr>
 </table>
-**Автор:** 夕空ゆう
-**Источник:** [Открыть оригинальный пост](https://x.com/yuzora_yu/status/2045053904262668658)
-**Теги:** Concept Art, Storyboard, Manga, Anime
-**Обновлено:** 2026-04-17
+
+- **Автор:** 夕空ゆう
+- **Источник:** [Открыть оригинальный пост](https://x.com/yuzora_yu/status/2045053904262668658)
+- **Теги:** Concept Art, Storyboard, Manga, Anime
+- **Обновлено:** 2026-04-17
 
 ```text
 三面図を併記した設定資料を出力して
@@ -365,10 +374,11 @@ standout individual performance in Champion’s League, using exact stats and ga
     </td>
   </tr>
 </table>
-**Автор:** 古一
-**Источник:** [Открыть оригинальный пост](https://x.com/MANISH1027512/status/2045013913901867334)
-**Теги:** Concept Art, Diagram, Infographic, Flat Illustration
-**Обновлено:** 2026-04-17
+
+- **Автор:** 古一
+- **Источник:** [Открыть оригинальный пост](https://x.com/MANISH1027512/status/2045013913901867334)
+- **Теги:** Concept Art, Diagram, Infographic, Flat Illustration
+- **Обновлено:** 2026-04-17
 
 ```text
 基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。
@@ -395,10 +405,11 @@ standout individual performance in Champion’s League, using exact stats and ga
     </td>
   </tr>
 </table>
-**Автор:** Kus🌱
-**Источник:** [Открыть оригинальный пост](https://x.com/tamayo888/status/2044814686701678977)
-**Теги:** Concept Art, Diagram, Front View, Full Body Character
-**Обновлено:** 2026-04-17
+
+- **Автор:** Kus🌱
+- **Источник:** [Открыть оригинальный пост](https://x.com/tamayo888/status/2044814686701678977)
+- **Теги:** Concept Art, Diagram, Front View, Full Body Character
+- **Обновлено:** 2026-04-17
 
 ```text
 このキャラクターと背景を元に、公式設定資料のようなキャラクターシートを作成してください。 ・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 ・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる ・全体は整理されたレイアウト（白背景、図解風） 高解像度、プロのコンセプトアートスタイル
@@ -421,10 +432,11 @@ standout individual performance in Champion’s League, using exact stats and ga
     </td>
   </tr>
 </table>
-**Автор:** jaizard
-**Источник:** [Открыть оригинальный пост](https://x.com/jaizard1/status/2044730387218436127)
-**Теги:** Concept Art, Storyboard, Diagram, Minimalism
-**Обновлено:** 2026-04-17
+
+- **Автор:** jaizard
+- **Источник:** [Открыть оригинальный пост](https://x.com/jaizard1/status/2044730387218436127)
+- **Теги:** Concept Art, Storyboard, Diagram, Minimalism
+- **Обновлено:** 2026-04-17
 
 ```text
 Setting sheet style, character design sheet, technical specifications, clean layout, highly detailed
@@ -447,10 +459,11 @@ Setting sheet style, character design sheet, technical specifications, clean lay
     </td>
   </tr>
 </table>
-**Автор:** can
-**Источник:** [Открыть оригинальный пост](https://x.com/marmaduke091/status/2040820686751432990)
-**Теги:** Concept Art, Game Asset, Fantasy, Vehicle, 3D Render
-**Обновлено:** 2026-04-17
+
+- **Автор:** can
+- **Источник:** [Открыть оригинальный пост](https://x.com/marmaduke091/status/2040820686751432990)
+- **Теги:** Concept Art, Game Asset, Fantasy, Vehicle, 3D Render
+- **Обновлено:** 2026-04-17
 
 ```text
 In the game Zelda totk link is in a e531 series train made by him
@@ -475,10 +488,11 @@ In the game Zelda totk link is in a e531 series train made by him
     </td>
   </tr>
 </table>
-**Автор:** XiaoAn
-**Источник:** [Открыть оригинальный пост](https://x.com/Xiaoan_XA/status/2040725594573529330)
-**Теги:** Typography, Ink Wash, Chinese Painting, Monochrome
-**Обновлено:** 2026-04-17
+
+- **Автор:** XiaoAn
+- **Источник:** [Открыть оригинальный пост](https://x.com/Xiaoan_XA/status/2040725594573529330)
+- **Теги:** Typography, Ink Wash, Chinese Painting, Monochrome
+- **Обновлено:** 2026-04-17
 
 ```text
 中文草书的一首中文古诗
@@ -501,10 +515,11 @@ In the game Zelda totk link is in a e531 series train made by him
     </td>
   </tr>
 </table>
-**Автор:** AlainYe
-**Источник:** [Открыть оригинальный пост](https://x.com/AaronAlainYe/status/2044795817270374888)
-**Теги:** Typography, Poster, Graphic Novel, Futuristic
-**Обновлено:** 2026-04-17
+
+- **Автор:** AlainYe
+- **Источник:** [Открыть оригинальный пост](https://x.com/AaronAlainYe/status/2044795817270374888)
+- **Теги:** Typography, Poster, Graphic Novel, Futuristic
+- **Обновлено:** 2026-04-17
 
 ```text
 被GPT-image-2 生图的文字排版能力惊艳到了！谁能想到现在文生图，提示词内容都不需要详细描述了，一下子就进入了一句话生图的时代。
@@ -527,10 +542,11 @@ In the game Zelda totk link is in a e531 series train made by him
     </td>
   </tr>
 </table>
-**Автор:** SRKDAN
-**Источник:** [Открыть оригинальный пост](https://x.com/SRKDAN/status/2043871921889001824)
-**Теги:** Typography, Texture, Electronics, Macro Photography, 3D Render
-**Обновлено:** 2026-04-17
+
+- **Автор:** SRKDAN
+- **Источник:** [Открыть оригинальный пост](https://x.com/SRKDAN/status/2043871921889001824)
+- **Теги:** Typography, Texture, Electronics, Macro Photography, 3D Render
+- **Обновлено:** 2026-04-17
 
 ```text
 Typography where every letterform is woven from carbon fibre. Tactile, directional, pure performance aesthetic.
@@ -553,10 +569,11 @@ Typography where every letterform is woven from carbon fibre. Tactile, direction
     </td>
   </tr>
 </table>
-**Автор:** Larus Canus
-**Источник:** [Открыть оригинальный пост](https://x.com/MrLarus/status/2044820495636312494)
-**Теги:** Typography, Magazine Cover, Infographic, Graphic Novel, Food
-**Обновлено:** 2026-04-17
+
+- **Автор:** Larus Canus
+- **Источник:** [Открыть оригинальный пост](https://x.com/MrLarus/status/2044820495636312494)
+- **Теги:** Typography, Magazine Cover, Infographic, Graphic Novel, Food
+- **Обновлено:** 2026-04-17
 
 ```text
 1、生成一张校园日报，主题AI教育
@@ -582,10 +599,11 @@ Typography where every letterform is woven from carbon fibre. Tactile, direction
     </td>
   </tr>
 </table>
-**Автор:** SRKDAN
-**Источник:** [Открыть оригинальный пост](https://x.com/SRKDAN/status/2044234296307614155)
-**Теги:** Typography, 3D Render, Macro Photography, Cinematic Lighting, Texture
-**Обновлено:** 2026-04-17
+
+- **Автор:** SRKDAN
+- **Источник:** [Открыть оригинальный пост](https://x.com/SRKDAN/status/2044234296307614155)
+- **Теги:** Typography, 3D Render, Macro Photography, Cinematic Lighting, Texture
+- **Обновлено:** 2026-04-17
 
 ```text
 A crystal-glass typeface where light splits through each letterform into its own spectrum.
@@ -610,10 +628,11 @@ A crystal-glass typeface where light splits through each letterform into its own
     </td>
   </tr>
 </table>
-**Автор:** WTR
-**Источник:** [Открыть оригинальный пост](https://x.com/wtry1102/status/2044984378250711306)
-**Теги:** Anime, Concept Art, Flat Illustration, Full Body Character, Manga
-**Обновлено:** 2026-04-17
+
+- **Автор:** WTR
+- **Источник:** [Открыть оригинальный пост](https://x.com/wtry1102/status/2044984378250711306)
+- **Теги:** Anime, Concept Art, Flat Illustration, Full Body Character, Manga
+- **Обновлено:** 2026-04-17
 
 ```text
 anime character idol design sheet, character reference sheet, multiple views, costume details, flat illustration, clean line art, high resolution
@@ -636,10 +655,11 @@ anime character idol design sheet, character reference sheet, multiple views, co
     </td>
   </tr>
 </table>
-**Автор:** Thereallo
-**Источник:** [Открыть оригинальный пост](https://x.com/Thereallo1026/status/2044241997163311569)
-**Теги:** Anime, Concept Art, Film Still, Cinematic
-**Обновлено:** 2026-04-17
+
+- **Автор:** Thereallo
+- **Источник:** [Открыть оригинальный пост](https://x.com/Thereallo1026/status/2044241997163311569)
+- **Теги:** Anime, Concept Art, Film Still, Cinematic
+- **Обновлено:** 2026-04-17
 
 ```text
 Show me the attached image as a snapshot from an actual anime
@@ -662,10 +682,11 @@ Show me the attached image as a snapshot from an actual anime
     </td>
   </tr>
 </table>
-**Автор:** IT navi
-**Источник:** [Открыть оригинальный пост](https://x.com/itnavi2022/status/2044412394760507521)
-**Теги:** Anime, Manga, Couple, Concept Art, Storybook Illustration
-**Обновлено:** 2026-04-17
+
+- **Автор:** IT navi
+- **Источник:** [Открыть оригинальный пост](https://x.com/itnavi2022/status/2044412394760507521)
+- **Теги:** Anime, Manga, Couple, Concept Art, Storybook Illustration
+- **Обновлено:** 2026-04-17
 
 ```text
 因縁の少女二人、アニメイラスト
@@ -688,10 +709,11 @@ Show me the attached image as a snapshot from an actual anime
     </td>
   </tr>
 </table>
-**Автор:** Mirochill
-**Источник:** [Открыть оригинальный пост](https://x.com/mirochill/status/2044767077131522309)
-**Теги:** Anime, Manga, Portrait, Concept Art
-**Обновлено:** 2026-04-17
+
+- **Автор:** Mirochill
+- **Источник:** [Открыть оригинальный пост](https://x.com/mirochill/status/2044767077131522309)
+- **Теги:** Anime, Manga, Portrait, Concept Art
+- **Обновлено:** 2026-04-17
 
 ```text
 Anna from the anime Makeine
@@ -716,10 +738,11 @@ Anna from the anime Makeine
     </td>
   </tr>
 </table>
-**Автор:** John
-**Источник:** [Открыть оригинальный пост](https://x.com/johnAGI168/status/2044985082868281487)
-**Теги:** Portrait, Influencer, Neon Light, Photography, Bokeh
-**Обновлено:** 2026-04-17
+
+- **Автор:** John
+- **Источник:** [Открыть оригинальный пост](https://x.com/johnAGI168/status/2044985082868281487)
+- **Теги:** Portrait, Influencer, Neon Light, Photography, Bokeh
+- **Обновлено:** 2026-04-17
 
 ```text
 A 22-year-old East Asian girl, round youthful face, large bright doe eyes with natural lashes, rosy cheeks, soft pink lip gloss, two-strand loose braids with baby hairs. Wearing a pastel lavender oversized hoodie. Background: blurred Japanese convenience store interior at night, neon light reflections adding color pops. Expression: playful, bubbly, genuinely happy. Aesthetic: Douyin/TikTok influencer portrait, soft beauty filter quality, warm skin tone, natural light. Photorealistic, 8K.16:9
@@ -742,10 +765,11 @@ A 22-year-old East Asian girl, round youthful face, large bright doe eyes with n
     </td>
   </tr>
 </table>
-**Автор:** Unknown
-**Источник:** [Открыть оригинальный пост](https://x.com/BubbleBrain/status/2044846335728467996)
-**Теги:** Portrait, Fashion Photography, Studio Lighting, Minimalism, Fashion Model
-**Обновлено:** 2026-04-17
+
+- **Автор:** Unknown
+- **Источник:** [Открыть оригинальный пост](https://x.com/BubbleBrain/status/2044846335728467996)
+- **Теги:** Portrait, Fashion Photography, Studio Lighting, Minimalism, Fashion Model
+- **Обновлено:** 2026-04-17
 
 ```text
 Professional studio fashion photography, ultra-clean high-end digital editorial portrait in a pure white seamless cyclorama photography studio, massive soft octabox key light + large softbox fill light creating flawless even illumination with gentle sculpting shadows, Vogue-level minimalist high fashion aesthetic, eye-level shot, 3/4 body shot, early 20s Korean idol-type young woman with ultra-realistic delicate refined Korean features, slightly upturned almond-shaped fox eyes with natural double eyelids, small sharp jawline, flawless yet realistic porcelain skin with cool ivory undertone, completely natural post-workout no-makeup look, soft natural flush on cheeks, subtle dewy skin glow from light sweat, natural dusty rose lips slightly parted, subtle natural freckles across nose and cheeks, visible subtle skin texture, pores and micro skin details, long naturally wavy dark brown hair slightly messy with realistic loose strands, wearing a white fitted tennis polo or short-sleeve athletic top and a high-waisted white tennis skirt, standing naturally in the center of the pure white studio, holding a white tennis racket casually resting on one shoulder, the other hand relaxed at her side or lightly on her hip, one leg slightly forward, posture natural and confident, looking directly at the viewer at eye level with a calm, confident and fresh expression, pure soft professional studio lighting with large diffused sources, flawless even illumination, gentle sculpting shadows that naturally define the figure, clean high-key minimalist aesthetic, ultra-clean high-end digital photography, extremely sharp yet soft skin rendering with natural dewy glow, no film grain, no noise, no halation, no vignette, perfect neutral color grading, authentic Korean idol studio editorial aesthetic, visible realistic tennis racket texture, natural skin texture with freckles and subtle sweat sheen, no plastic skin, no digital over-sharpening, no airbrushing, no watermark, no text --ar 9:16
@@ -768,10 +792,11 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
     </td>
   </tr>
 </table>
-**Автор:** Patrick
-**Источник:** [Открыть оригинальный пост](https://x.com/patrickassale/status/2044581766309060765)
-**Теги:** Portrait, Photography, Cinematic Lighting, Natural Light, Concept Art
-**Обновлено:** 2026-04-17
+
+- **Автор:** Patrick
+- **Источник:** [Открыть оригинальный пост](https://x.com/patrickassale/status/2044581766309060765)
+- **Теги:** Portrait, Photography, Cinematic Lighting, Natural Light, Concept Art
+- **Обновлено:** 2026-04-17
 
 ```text
 Midjourney 8.1 vs GPT Image 2 comparison, natural lighting, high resolution portrait
@@ -794,10 +819,11 @@ Midjourney 8.1 vs GPT Image 2 comparison, natural lighting, high resolution port
     </td>
   </tr>
 </table>
-**Автор:** BubbleBrain
-**Источник:** [Открыть оригинальный пост](https://x.com/BubbleBrain/status/2044705257004093537)
-**Теги:** Portrait, Fashion Photography, Photography, Magazine Cover, Worm's Eye View
-**Обновлено:** 2026-04-17
+
+- **Автор:** BubbleBrain
+- **Источник:** [Открыть оригинальный пост](https://x.com/BubbleBrain/status/2044705257004093537)
+- **Теги:** Portrait, Fashion Photography, Photography, Magazine Cover, Worm's Eye View
+- **Обновлено:** 2026-04-17
 
 ```text
 Analog 35mm film photography, high-fashion editorial portrait with intense on-camera direct flash (CCD hard flash style), intimate low-angle POV shot from slightly below (仰拍, around +15° upward angle), emphasizing long legs and elegant hourglass body proportions, 4:3 vertical format, 3/4 body shot, early 20s Korean idol-type young woman with delicate refined features, slightly upturned almond-shaped fox eyes, small sharp jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from direct flash, soft coral blush, natural dusty rose lips slightly parted, long naturally wavy dark brown hair with loose strands framing the face, wearing a slightly tilted black police peaked cap with silver badge. She wears a fitted, stylish policewoman-inspired outfit: black short-sleeved collared crop top with shiny silver buttons and epaulets, a shiny silver police badge pinned on the chest, a thin black necktie loosely hanging at the front, a wide black duty belt with a silver buckle and handcuffs at the side, and a short black pleated mini skirt. Black thigh-high stockings and white low-top canvas sneakers with loose lacing add a casual contrast. Pose: a subtle S-curve stance with weight shifted to one leg, hips angled slightly toward the camera to enhance silhouette and leg length. One hand lightly touches the cap brim or rests near the waist, while the other hand is placed at the hip or near the belt. Head tilted slightly down with a confident, self-assured upward gaze through lashes directed at the viewer, expression poised, cool, and subtly playful rather than overtly seductive. Harsh on-camera direct flash from front/slightly above creates strong catchlights, sharp shadows behind the subject, crisp highlights on skin, hair, badge, belt buckle, and fabric textures. Cold flash quality mixed with warm ambient window light, visible flash fall-off, Kodak Portra 400 film simulation pushed for strong analog character, warm peachy skin tones with flash highlights, subtle cyan shadows, prominent heavy analog film grain (strength 0.65, larger grain size), noticeable film halation around bright areas, strong natural vignette, slight underexposure for a raw intimate mood. Ultra-realistic photorealistic film photography, edgy magazine editorial aesthetic, visible fabric texture and reflective metal details, delicate hair strands glowing from flash, natural skin texture with heavy film grain throughout, no plastic skin, no digital sharpness, no airbrushing, no watermark, no text, authentic 35mm film look with strong grain and flash artifacts, analog color grading.
@@ -822,10 +848,11 @@ Analog 35mm film photography, high-fashion editorial portrait with intense on-ca
     </td>
   </tr>
 </table>
-**Автор:** SRKDAN
-**Источник:** [Открыть оригинальный пост](https://x.com/SRKDAN/status/2044664616257487266)
-**Теги:** Consumer Product, Minimalism, Product Mockup, Macro Photography, Texture
-**Обновлено:** 2026-04-17
+
+- **Автор:** SRKDAN
+- **Источник:** [Открыть оригинальный пост](https://x.com/SRKDAN/status/2044664616257487266)
+- **Теги:** Consumer Product, Minimalism, Product Mockup, Macro Photography, Texture
+- **Обновлено:** 2026-04-17
 
 ```text
 A leather wallet with no stitching, no clasp, no visible opening.
@@ -848,10 +875,11 @@ A leather wallet with no stitching, no clasp, no visible opening.
     </td>
   </tr>
 </table>
-**Автор:** SRKDAN
-**Источник:** [Открыть оригинальный пост](https://x.com/SRKDAN/status/2044660755031544028)
-**Теги:** Consumer Product, Electronics, Minimalism, Futuristic, Product Mockup
-**Обновлено:** 2026-04-17
+
+- **Автор:** SRKDAN
+- **Источник:** [Открыть оригинальный пост](https://x.com/SRKDAN/status/2044660755031544028)
+- **Теги:** Consumer Product, Electronics, Minimalism, Futuristic, Product Mockup
+- **Обновлено:** 2026-04-17
 
 ```text
 A watch with no crown, no buttons — a sealed case that sets itself.
@@ -874,10 +902,11 @@ A watch with no crown, no buttons — a sealed case that sets itself.
     </td>
   </tr>
 </table>
-**Автор:** SRKDAN
-**Источник:** [Открыть оригинальный пост](https://x.com/SRKDAN/status/2044652764945338452)
-**Теги:** Consumer Product, Packaging Design, Surrealism, Product Mockup, CGI
-**Обновлено:** 2026-04-17
+
+- **Автор:** SRKDAN
+- **Источник:** [Открыть оригинальный пост](https://x.com/SRKDAN/status/2044652764945338452)
+- **Теги:** Consumer Product, Packaging Design, Surrealism, Product Mockup, CGI
+- **Обновлено:** 2026-04-17
 
 ```text
 A bottle with no opening — scent releases through the glass itself.
@@ -902,10 +931,11 @@ A bottle with no opening — scent releases through the glass itself.
     </td>
   </tr>
 </table>
-**Автор:** 0x吴墨染
-**Источник:** [Открыть оригинальный пост](https://x.com/buffdoge_eth/status/2044974527650865207)
-**Теги:** Influencer, Social Media Post, Portrait, Chinese Painting, Cinematic Lighting
-**Обновлено:** 2026-04-17
+
+- **Автор:** 0x吴墨染
+- **Источник:** [Открыть оригинальный пост](https://x.com/buffdoge_eth/status/2044974527650865207)
+- **Теги:** Influencer, Social Media Post, Portrait, Chinese Painting, Cinematic Lighting
+- **Обновлено:** 2026-04-17
 
 ```text
 生成国风女主播抖音直播截图
@@ -928,10 +958,11 @@ A bottle with no opening — scent releases through the glass itself.
     </td>
   </tr>
 </table>
-**Автор:** Dark
-**Источник:** [Открыть оригинальный пост](https://x.com/Daein199X/status/2044889438548033657)
-**Теги:** Influencer, Social Media Post, Portrait, App UI
-**Обновлено:** 2026-04-17
+
+- **Автор:** Dark
+- **Источник:** [Открыть оригинальный пост](https://x.com/Daein199X/status/2044889438548033657)
+- **Теги:** Influencer, Social Media Post, Portrait, App UI
+- **Обновлено:** 2026-04-17
 
 ```text
 生成一位美女在抖音直播的手机截图
@@ -954,10 +985,11 @@ A bottle with no opening — scent releases through the glass itself.
     </td>
   </tr>
 </table>
-**Автор:** Gorden Sun
-**Источник:** [Открыть оригинальный пост](https://x.com/Gorden_Sun/status/2044716675283747299)
-**Теги:** Influencer, Social Media Post, Portrait, Photography
-**Обновлено:** 2026-04-17
+
+- **Автор:** Gorden Sun
+- **Источник:** [Открыть оригинальный пост](https://x.com/Gorden_Sun/status/2044716675283747299)
+- **Теги:** Influencer, Social Media Post, Portrait, Photography
+- **Обновлено:** 2026-04-17
 
 ```text
 A screenshot of a Douyin livestream, 9:16 aspect ratio, featuring a beautiful woman livestreaming, holding a sign that says: "谢谢Gorden Sun的大火箭！"
@@ -982,10 +1014,11 @@ A screenshot of a Douyin livestream, 9:16 aspect ratio, featuring a beautiful wo
     </td>
   </tr>
 </table>
-**Автор:** Riccardo Wolf
-**Источник:** [Открыть оригинальный пост](https://x.com/WolfRiccardo/status/2044562722491121718)
-**Теги:** Poster, Landscape, Vintage, Retro, Car
-**Обновлено:** 2026-04-17
+
+- **Автор:** Riccardo Wolf
+- **Источник:** [Открыть оригинальный пост](https://x.com/WolfRiccardo/status/2044562722491121718)
+- **Теги:** Poster, Landscape, Vintage, Retro, Car
+- **Обновлено:** 2026-04-17
 
 ```text
 Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
@@ -1008,10 +1041,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
     </td>
   </tr>
 </table>
-**Автор:** Unknown
-**Источник:** [Открыть оригинальный пост](https://x.com/TAMAnoASOBIBA/status/2044634519928783238)
-**Теги:** Poster, Animal, Cinematic, Cityscape, Concept Art
-**Обновлено:** 2026-04-17
+
+- **Автор:** Unknown
+- **Источник:** [Открыть оригинальный пост](https://x.com/TAMAnoASOBIBA/status/2044634519928783238)
+- **Теги:** Poster, Animal, Cinematic, Cityscape, Concept Art
+- **Обновлено:** 2026-04-17
 
 ```text
 ゴリラが人間の街に馴染み、知的労働で活躍する映画のポスターを作成して。テキストは日本語で。情報量多く
@@ -1027,10 +1061,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 <details open>
 <summary>Показать промпт, превью и метаданные</summary>
 
-**Автор:** Mikel
-**Источник:** [Открыть оригинальный пост](https://x.com/MikelEcheve/status/2044703635024621703)
-**Теги:** Poster, Anime, Typography, Concept Art
-**Обновлено:** 2026-04-17
+
+- **Автор:** Mikel
+- **Источник:** [Открыть оригинальный пост](https://x.com/MikelEcheve/status/2044703635024621703)
+- **Теги:** Poster, Anime, Typography, Concept Art
+- **Обновлено:** 2026-04-17
 
 ```text
 handwritten notes, realistic ads, posters, anime art
@@ -1055,10 +1090,11 @@ handwritten notes, realistic ads, posters, anime art
     </td>
   </tr>
 </table>
-**Автор:** ShyNloc
-**Источник:** [Открыть оригинальный пост](https://x.com/shynloc/status/2044850179099263348)
-**Теги:** 3D Render, App UI, Social Media Post, Studio Lighting, Minimalism
-**Обновлено:** 2026-04-17
+
+- **Автор:** ShyNloc
+- **Источник:** [Открыть оригинальный пост](https://x.com/shynloc/status/2044850179099263348)
+- **Теги:** 3D Render, App UI, Social Media Post, Studio Lighting, Minimalism
+- **Обновлено:** 2026-04-17
 
 ```text
 Ultra-realistic 3D Twitter/X profile interface illustration, slightly tilted, clean minimalist grey background. The profile interface matches a real X screenshot with username, verification badge, bio, followers, and tweets. On the right side of the screen, characters are breaking through torn paper. Their facial features remain the same but with natural bright smiles, expressive eyes, and soft glowing skin. They are holding the torn paper edges with a male on top and three females (in white, yellow, and purple) below, creating a dynamic 3D effect. Flying paper scraps creating a realistic breakthrough illusion. Soft studio lighting with cinematic shadows and depth of field. Ultra-detailed, 4K, realistic + Pixar style blend, sharp focus. --ar 3:4
@@ -1081,10 +1117,11 @@ Ultra-realistic 3D Twitter/X profile interface illustration, slightly tilted, cl
     </td>
   </tr>
 </table>
-**Автор:** 李岳
-**Источник:** [Открыть оригинальный пост](https://x.com/liyue_ai/status/2044800343280906522)
-**Теги:** 3D Render, Social Media Post, App UI, Papercraft, Studio Lighting
-**Обновлено:** 2026-04-17
+
+- **Автор:** 李岳
+- **Источник:** [Открыть оригинальный пост](https://x.com/liyue_ai/status/2044800343280906522)
+- **Теги:** 3D Render, Social Media Post, App UI, Papercraft, Studio Lighting
+- **Обновлено:** 2026-04-17
 
 ```text
 A hyper-realistic 3D illustration of a Twitter/X profile interface, slightly tilted, with a clean minimal grey background. The original profile picture (cartoon girl DP) remains unchanged. The profile UI exactly matches a real X screenshot with username "Noor 🌸" and verified badge, detailed bio, followers count, and tweet section. From the right side of the screen, a stylish girl with bright messy yellow short hair and fair skin is bursting through torn paper. She has the SAME facial features (do not alter face), but now with a wide natural smile, expressive eyes, and soft glowing skin. She is holding the torn paper edges with her hand, coming out of the screen in a dynamic 3D effect. Paper pieces are flying outward, creating a realistic breakthrough illusion. Lighting is soft studio lighting with cinematic shadows and depth of field. Ultra-detailed, 4K, realistic + Pixar-style blend, sharp focus, trending on ArtStation. IMPORTANT: - Do not change the profile picture (DP) - Keep the exact X UI layout and text style - Maintain original face identity of the girl - Only enhance expression into a natural smile
@@ -1109,10 +1146,11 @@ A hyper-realistic 3D illustration of a Twitter/X profile interface, slightly til
     </td>
   </tr>
 </table>
-**Автор:** AB Kuai.Dong
-**Источник:** [Открыть оригинальный пост](https://x.com/_FORAB/status/2045017289335144743)
-**Теги:** App UI, Web Design, Product Mockup, Minimalism
-**Обновлено:** 2026-04-17
+
+- **Автор:** AB Kuai.Dong
+- **Источник:** [Открыть оригинальный пост](https://x.com/_FORAB/status/2045017289335144743)
+- **Теги:** App UI, Web Design, Product Mockup, Minimalism
+- **Обновлено:** 2026-04-17
 
 ```text
 Render a professional IOS APP page image, similar to Binance, professional-grade design.
@@ -1135,10 +1173,11 @@ Render a professional IOS APP page image, similar to Binance, professional-grade
     </td>
   </tr>
 </table>
-**Автор:** Patrick
-**Источник:** [Открыть оригинальный пост](https://x.com/patrickassale/status/2044492063752794239)
-**Теги:** App UI, Web Design, Minimalism, Electronics
-**Обновлено:** 2026-04-17
+
+- **Автор:** Patrick
+- **Источник:** [Открыть оригинальный пост](https://x.com/patrickassale/status/2044492063752794239)
+- **Теги:** App UI, Web Design, Minimalism, Electronics
+- **Обновлено:** 2026-04-17
 
 ```text
 Screenshot of a music generator feature inside ChatGPT
@@ -1163,10 +1202,11 @@ Screenshot of a music generator feature inside ChatGPT
     </td>
   </tr>
 </table>
-**Автор:** 不等 AI 离子
-**Источник:** [Открыть оригинальный пост](https://x.com/alupbn121/status/2045040830227050885)
-**Теги:** Cinematic, Film Still, Fantasy, Forest, Portrait
-**Обновлено:** 2026-04-17
+
+- **Автор:** 不等 AI 离子
+- **Источник:** [Открыть оригинальный пост](https://x.com/alupbn121/status/2045040830227050885)
+- **Теги:** Cinematic, Film Still, Fantasy, Forest, Portrait
+- **Обновлено:** 2026-04-17
 
 ```text
 电视剧官方剧照，古装奇幻题材《蛊月照归人》，苗疆蛊灵少女，真实东方少女，苍白柔润透亮的肌肤，黑发如瀑，发间簪着白色山花与银饰流苏，耳侧垂落精致苗疆银饰，浅青白纱古风长裙，轻薄纱袖与细腻刺绣，站在苗疆禁林深处回眸，眼神安静却藏着宿命感，神情克制，带一点若有若无的悲悯与冷艳，夜色幽蓝，山林潮湿，薄雾弥漫，古木盘根错节，背景深处有幽微蛊火与模糊祭坛残影，空气中漂浮细小发光蛊虫与银蓝色蝶影，发丝和衣摆被山风轻轻吹起，电影级光影，冷蓝月光混合柔和火光，面部轮廓被微弱侧逆光勾亮，景深明显，真实电视剧拍摄质感，超写实，皮肤质感细腻自然，情绪浓烈但克制，镜头语言像爆款古装剧海报剧照，画面高级、神秘、凄美、危险，摄影棚级控光结合实景森林氛围，85mm电影镜头，浅景深，背景虚化，电影剧照，high detail，ultra realistic，cinematic still，dramatic composition，4K，ArtStation级完成度
@@ -1189,10 +1229,11 @@ Screenshot of a music generator feature inside ChatGPT
     </td>
   </tr>
 </table>
-**Автор:** can
-**Источник:** [Открыть оригинальный пост](https://x.com/marmaduke091/status/2044909851852030420)
-**Теги:** Cinematic, Cityscape, Game Asset, Concept Art, Cinematic Lighting
-**Обновлено:** 2026-04-17
+
+- **Автор:** can
+- **Источник:** [Открыть оригинальный пост](https://x.com/marmaduke091/status/2044909851852030420)
+- **Теги:** Cinematic, Cityscape, Game Asset, Concept Art, Cinematic Lighting
+- **Обновлено:** 2026-04-17
 
 ```text
 GTA 6 style cinematic scene, urban environment, high fidelity, hyper-realistic lighting --ar 1915:821
@@ -1217,10 +1258,11 @@ GTA 6 style cinematic scene, urban environment, high fidelity, hyper-realistic l
     </td>
   </tr>
 </table>
-**Автор:** 李岳
-**Источник:** [Открыть оригинальный пост](https://x.com/liyue_ai/status/2045034001430413550)
-**Теги:** Game Asset, Cinematic, Monster, Sci-Fi, Concept Art
-**Обновлено:** 2026-04-17
+
+- **Автор:** 李岳
+- **Источник:** [Открыть оригинальный пост](https://x.com/liyue_ai/status/2045034001430413550)
+- **Теги:** Game Asset, Cinematic, Monster, Sci-Fi, Concept Art
+- **Обновлено:** 2026-04-17
 
 ```text
 创建一张Steam游戏《剑星》（StellarBlade）中女主角伊芙（Eve）穿着圣诞套装在艾多斯7号与游戏中的怪物战斗的画面，尺寸16:9
@@ -1243,10 +1285,11 @@ GTA 6 style cinematic scene, urban environment, high fidelity, hyper-realistic l
     </td>
   </tr>
 </table>
-**Автор:** Mirochill
-**Источник:** [Открыть оригинальный пост](https://x.com/mirochill/status/2044366023122464816)
-**Теги:** Game Asset, Full Body Character, Concept Art, Anime
-**Обновлено:** 2026-04-17
+
+- **Автор:** Mirochill
+- **Источник:** [Открыть оригинальный пост](https://x.com/mirochill/status/2044366023122464816)
+- **Теги:** Game Asset, Full Body Character, Concept Art, Anime
+- **Обновлено:** 2026-04-17
 
 ```text
 Cover switch game : Discord Mod Simulator
@@ -1271,10 +1314,11 @@ Cover switch game : Discord Mod Simulator
     </td>
   </tr>
 </table>
-**Автор:** 柯基是只猫
-**Источник:** [Открыть оригинальный пост](https://x.com/Keji715/status/2044740949859828058)
-**Теги:** Infographic, Diagram, Chart, Presentation Slide
-**Обновлено:** 2026-04-17
+
+- **Автор:** 柯基是只猫
+- **Источник:** [Открыть оригинальный пост](https://x.com/Keji715/status/2044740949859828058)
+- **Теги:** Infographic, Diagram, Chart, Presentation Slide
+- **Обновлено:** 2026-04-17
 
 ```text
 生成一张文字内容详细，结构清晰的 AI公司对比图。
@@ -1297,10 +1341,11 @@ Cover switch game : Discord Mod Simulator
     </td>
   </tr>
 </table>
-**Автор:** Unknown
-**Источник:** [Открыть оригинальный пост](https://x.com/GeekCatX/status/2044808405165248691)
-**Теги:** Infographic, Diagram, Typography, Presentation Slide, Concept Art
-**Обновлено:** 2026-04-17
+
+- **Автор:** Unknown
+- **Источник:** [Открыть оригинальный пост](https://x.com/GeekCatX/status/2044808405165248691)
+- **Теги:** Infographic, Diagram, Typography, Presentation Slide, Concept Art
+- **Обновлено:** 2026-04-17
 
 ```text
 high-density information infographic style, detailed illustrated guide style
@@ -1325,10 +1370,11 @@ high-density information infographic style, detailed illustrated guide style
     </td>
   </tr>
 </table>
-**Автор:** らけしで / Mizmic Studio
-**Источник:** [Открыть оригинальный пост](https://x.com/lakeside529/status/2044645377392193602)
-**Теги:** Manga, Comic Book, Storyboard, Concept Art, Anime
-**Обновлено:** 2026-04-17
+
+- **Автор:** らけしで / Mizmic Studio
+- **Источник:** [Открыть оригинальный пост](https://x.com/lakeside529/status/2044645377392193602)
+- **Теги:** Manga, Comic Book, Storyboard, Concept Art, Anime
+- **Обновлено:** 2026-04-17
 
 ```text
 数ページの漫画作って
@@ -1351,10 +1397,11 @@ high-density information infographic style, detailed illustrated guide style
     </td>
   </tr>
 </table>
-**Автор:** 海馬れいしょ@AI同人
-**Источник:** [Открыть оригинальный пост](https://x.com/visual_memory_/status/2044655616992621023)
-**Теги:** Manga, Comic Book, Storyboard, Monster, Anime
-**Обновлено:** 2026-04-17
+
+- **Автор:** 海馬れいしょ@AI同人
+- **Источник:** [Открыть оригинальный пост](https://x.com/visual_memory_/status/2044655616992621023)
+- **Теги:** Manga, Comic Book, Storyboard, Monster, Anime
+- **Обновлено:** 2026-04-17
 
 ```text
 初音ミクがモンスターと戦っている見開き1ページの漫画を描いて。コマ割りはダイナミックに。描写は美しく。セリフはかっこよく。
@@ -1379,10 +1426,11 @@ high-density information infographic style, detailed illustrated guide style
     </td>
   </tr>
 </table>
-**Автор:** ZOOZOO的赛博空间
-**Источник:** [Открыть оригинальный пост](https://x.com/zoozoo_ai/status/2045037793869693319)
-**Теги:** Photography, Documentary Photography, Typography, Minimalism
-**Обновлено:** 2026-04-17
+
+- **Автор:** ZOOZOO的赛博空间
+- **Источник:** [Открыть оригинальный пост](https://x.com/zoozoo_ai/status/2045037793869693319)
+- **Теги:** Photography, Documentary Photography, Typography, Minimalism
+- **Обновлено:** 2026-04-17
 
 ```text
 帮我写一篇1000字的日记，内容自拟，然后根据这个内容生成一个真实的日记图片
@@ -1405,10 +1453,11 @@ high-density information infographic style, detailed illustrated guide style
     </td>
   </tr>
 </table>
-**Автор:** Patrick
-**Источник:** [Открыть оригинальный пост](https://x.com/patrickassale/status/2044569086013718958)
-**Теги:** Photography, Documentary Photography, Natural Light, Texture, Interior Design
-**Обновлено:** 2026-04-17
+
+- **Автор:** Patrick
+- **Источник:** [Открыть оригинальный пост](https://x.com/patrickassale/status/2044569086013718958)
+- **Теги:** Photography, Documentary Photography, Natural Light, Texture, Interior Design
+- **Обновлено:** 2026-04-17
 
 ```text
 Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone
@@ -1433,10 +1482,11 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
     </td>
   </tr>
 </table>
-**Автор:** Shinning
-**Источник:** [Открыть оригинальный пост](https://x.com/Shinning1010/status/2045002808903020962)
-**Теги:** Selfie, Portrait, Golden Hour, Natural Light, Bokeh
-**Обновлено:** 2026-04-17
+
+- **Автор:** Shinning
+- **Источник:** [Открыть оригинальный пост](https://x.com/Shinning1010/status/2045002808903020962)
+- **Теги:** Selfie, Portrait, Golden Hour, Natural Light, Bokeh
+- **Обновлено:** 2026-04-17
 
 ```text
 A stunning 18-year-old Chinese girl with a youthful, pure face and realistic skin texture, sitting on a cozy, slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone, capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window, creating a warm, moody, and cinematic atmosphere. 35mm lens, sharp focus on the subject in the mirror, depth of field with a beautifully blurred background (bokeh). Photorealistic, 8K, high resolution, studio quality, masterpiece. Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no watermark, no text, no cartoon/anime style. Aspect Ratio: 3:4.
@@ -1459,10 +1509,11 @@ A stunning 18-year-old Chinese girl with a youthful, pure face and realistic ski
     </td>
   </tr>
 </table>
-**Автор:** pozitiv4ik
-**Источник:** [Открыть оригинальный пост](https://x.com/Gc_qube/status/1998474719176380537)
-**Теги:** Selfie, Portrait, Photography, Natural Light, Influencer
-**Обновлено:** 2026-04-17
+
+- **Автор:** pozitiv4ik
+- **Источник:** [Открыть оригинальный пост](https://x.com/Gc_qube/status/1998474719176380537)
+- **Теги:** Selfie, Portrait, Photography, Natural Light, Influencer
+- **Обновлено:** 2026-04-17
 
 ```text
 Photo with {celebrities}.Taking a selfie: Paul Rudd (in the center).(show the selfie itself, don't show the phone, 9:16, don't frame it)
@@ -1487,10 +1538,11 @@ Photo with {celebrities}.Taking a selfie: Paul Rudd (in the center).(show the se
     </td>
   </tr>
 </table>
-**Автор:** Riccardo Wolf
-**Источник:** [Открыть оригинальный пост](https://x.com/WolfRiccardo/status/2044564744095379476)
-**Теги:** Car, Street Photography, Photography, Documentary Photography, Street View
-**Обновлено:** 2026-04-17
+
+- **Автор:** Riccardo Wolf
+- **Источник:** [Открыть оригинальный пост](https://x.com/WolfRiccardo/status/2044564744095379476)
+- **Теги:** Car, Street Photography, Photography, Documentary Photography, Street View
+- **Обновлено:** 2026-04-17
 
 ```text
 Ultra-realistic candid automotive photograph that does NOT look staged or intentional. A high-performance or luxury car captured imperfectly: – Slight motion blur – Off-center framing – Cropped awkwardly, like a rushed phone shot – Uneven lighting and imperfect exposure. Environment feels incidental: – Street corner, parking lot, roadside, or traffic stop – Background elements partially cut off – No symmetry, no composition rules. Camera behavior: – Handheld look – Minor tilt or roll – Natural lens softness – No cinematic depth of field. Lighting: – Flat daylight or overcast – No dramatic shadows – No studio lighting. Overall feeling: This image should feel accidental, unfinished, and real. Like someone quickly pulled out their phone and took the shot without thinking. No editing. No polish. No flex. Negative prompt: studio lighting, perfect composition, cinematic framing, posed car, luxury photoshoot, symmetry, HDR, oversharpening
@@ -1515,10 +1567,11 @@ Ultra-realistic candid automotive photograph that does NOT look staged or intent
     </td>
   </tr>
 </table>
-**Автор:** sasakura｜宅録ナレーター×占星術×AI愛好家🇯🇵
-**Источник:** [Открыть оригинальный пост](https://x.com/saskr_13/status/2044744396932079934)
-**Теги:** Couple, Manga, Acrylic Paint, Watercolor, Oil Painting
-**Обновлено:** 2026-04-17
+
+- **Автор:** sasakura｜宅録ナレーター×占星術×AI愛好家🇯🇵
+- **Источник:** [Открыть оригинальный пост](https://x.com/saskr_13/status/2044744396932079934)
+- **Теги:** Couple, Manga, Acrylic Paint, Watercolor, Oil Painting
+- **Обновлено:** 2026-04-17
 
 ```text
 Acrylic watercolor oil painting + modern mature couple, shoujo manga style, not photorealistic
@@ -1543,10 +1596,11 @@ Acrylic watercolor oil painting + modern mature couple, shoujo manga style, not 
     </td>
   </tr>
 </table>
-**Автор:** Patrick
-**Источник:** [Открыть оригинальный пост](https://x.com/patrickassale/status/2044687244368441742)
-**Теги:** Crowd, Electronics, Architecture, Photography, Documentary Photography
-**Обновлено:** 2026-04-17
+
+- **Автор:** Patrick
+- **Источник:** [Открыть оригинальный пост](https://x.com/patrickassale/status/2044687244368441742)
+- **Теги:** Crowd, Electronics, Architecture, Photography, Documentary Photography
+- **Обновлено:** 2026-04-17
 
 ```text
 Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
@@ -1571,10 +1625,11 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
     </td>
   </tr>
 </table>
-**Автор:** 李岳
-**Источник:** [Открыть оригинальный пост](https://x.com/liyue_ai/status/2045000106919997637)
-**Теги:** Extreme Close-up, Typography, Fantasy, Macro Photography, Cinematic Lighting
-**Обновлено:** 2026-04-17
+
+- **Автор:** 李岳
+- **Источник:** [Открыть оригинальный пост](https://x.com/liyue_ai/status/2045000106919997637)
+- **Теги:** Extreme Close-up, Typography, Fantasy, Macro Photography, Cinematic Lighting
+- **Обновлено:** 2026-04-17
 
 ```text
 以眼部特写图片为基础，生成3:4的四屏构图超写实眼部特写，四屏按春夏秋冬上下排序。
@@ -1609,10 +1664,11 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
     </td>
   </tr>
 </table>
-**Автор:** SRKDAN
-**Источник:** [Открыть оригинальный пост](https://x.com/SRKDAN/status/2044658491592257866)
-**Теги:** Fashion Apparel, Minimalism, Futuristic, Consumer Product, Concept Art
-**Обновлено:** 2026-04-17
+
+- **Автор:** SRKDAN
+- **Источник:** [Открыть оригинальный пост](https://x.com/SRKDAN/status/2044658491592257866)
+- **Теги:** Fashion Apparel, Minimalism, Futuristic, Consumer Product, Concept Art
+- **Обновлено:** 2026-04-17
 
 ```text
 A jacket with no zip, no buttons, no fastening — closes perfectly.
@@ -1637,10 +1693,11 @@ A jacket with no zip, no buttons, no fastening — closes perfectly.
     </td>
   </tr>
 </table>
-**Автор:** Wicked Viper
-**Источник:** [Открыть оригинальный пост](https://x.com/404_WICKEDVIPER/status/2031980498030116937)
-**Теги:** Fashion Photography, Full Body Shot, Studio Lighting, Photography, Gradient Background
-**Обновлено:** 2026-04-17
+
+- **Автор:** Wicked Viper
+- **Источник:** [Открыть оригинальный пост](https://x.com/404_WICKEDVIPER/status/2031980498030116937)
+- **Теги:** Fashion Photography, Full Body Shot, Studio Lighting, Photography, Gradient Background
+- **Обновлено:** 2026-04-17
 
 ```text
 a full body shot in a studio shows an avant garde angle of a woman bending backwards looking up at the ceiling wearing a burgundy red leather strappy top with metal details, her one hand holding her neck with white manicured fingernails and the other hand on her hip, she is looking away from the camera with her hair slicked back with shiny blonde hair and brown roots, her legs kneeling, black and grey heavy gradient background, in the style of flash photography, she is shimmering in a high flash grainy image
@@ -1665,10 +1722,11 @@ a full body shot in a studio shows an avant garde angle of a woman bending backw
     </td>
   </tr>
 </table>
-**Автор:** WY
-**Источник:** [Открыть оригинальный пост](https://x.com/akokoi1/status/2044789531615056175)
-**Теги:** Landscape, Typography, Photography, Vintage, Poster
-**Обновлено:** 2026-04-17
+
+- **Автор:** WY
+- **Источник:** [Открыть оригинальный пост](https://x.com/akokoi1/status/2044789531615056175)
+- **Теги:** Landscape, Typography, Photography, Vintage, Poster
+- **Обновлено:** 2026-04-17
 
 ```text
 图一：设计一张2026年4月16日的真实风景日历
@@ -1694,10 +1752,11 @@ a full body shot in a studio shows an avant garde angle of a woman bending backw
     </td>
   </tr>
 </table>
-**Автор:** 李岳
-**Источник:** [Открыть оригинальный пост](https://x.com/liyue_ai/status/2045058142858555733)
-**Теги:** Oil Painting, Portrait, Beverage, Surrealism
-**Обновлено:** 2026-04-17
+
+- **Автор:** 李岳
+- **Источник:** [Открыть оригинальный пост](https://x.com/liyue_ai/status/2045058142858555733)
+- **Теги:** Oil Painting, Portrait, Beverage, Surrealism
+- **Обновлено:** 2026-04-17
 
 ```text
 生成一张蒙娜丽莎喝可乐的油画。
@@ -1722,10 +1781,11 @@ a full body shot in a studio shows an avant garde angle of a woman bending backw
     </td>
   </tr>
 </table>
-**Автор:** Patrick
-**Источник:** [Открыть оригинальный пост](https://x.com/patrickassale/status/2043755728624562398)
-**Теги:** Product Mockup, Magazine Cover, Photography, Documentary Photography
-**Обновлено:** 2026-04-17
+
+- **Автор:** Patrick
+- **Источник:** [Открыть оригинальный пост](https://x.com/patrickassale/status/2043755728624562398)
+- **Теги:** Product Mockup, Magazine Cover, Photography, Documentary Photography
+- **Обновлено:** 2026-04-17
 
 ```text
 Amateur phone photo of an open magazine spread across two pages, featuring an article about GPT Image 2. Shot on iPhone. No depth of field, everything sharp, authentic photo. Shot on iPhone. Main camera.
@@ -1750,10 +1810,11 @@ Amateur phone photo of an open magazine spread across two pages, featuring an ar
     </td>
   </tr>
 </table>
-**Автор:** まるめろ｜オリジナルAI音楽 / アニソン風J-POP
-**Источник:** [Открыть оригинальный пост](https://x.com/marumero_music/status/2044971455717560820)
-**Теги:** Web Design, Social Media Post, App UI, Concept Art
-**Обновлено:** 2026-04-17
+
+- **Автор:** まるめろ｜オリジナルAI音楽 / アニソン風J-POP
+- **Источник:** [Открыть оригинальный пост](https://x.com/marumero_music/status/2044971455717560820)
+- **Теги:** Web Design, Social Media Post, App UI, Concept Art
+- **Обновлено:** 2026-04-17
 
 ```text
 上杉謙信のXの日本語プロフィールページ(トイレで亡くなる直前)
