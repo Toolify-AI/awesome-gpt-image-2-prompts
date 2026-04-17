@@ -43,14 +43,14 @@
 - データページ: [Toolify GPT Image 2 prompts](https://www.toolify.ai/prompts/gpt-image-2)
 - ソースファイル: `toolify.json`
 - 出力ファイル: `README.md`, `README.zh-CN.md`, `README.zh-TW.md`, `README.ja.md`, `README.ko.md`, `README.es.md`, `README.fr.md`, `README.de.md`, `README.pt-BR.md`, `README.ru.md`
-- 主要タグ: `Concept Art` (22), `Portrait` (17), `Photography` (14), `Social Media Post` (14), `Typography` (12), `Anime` (9), `Influencer` (9), `App UI` (9), `Minimalism` (9), `Manga` (7), `Web Design` (6), `Cinematic Lighting` (6)
+- 主要タグ: `Concept Art` (22), `Portrait` (16), `Social Media Post` (14), `Photography` (13), `Typography` (12), `Anime` (9), `Influencer` (9), `App UI` (9), `Minimalism` (9), `Manga` (7), `Web Design` (6), `Cinematic Lighting` (6)
 
 <a id="statistics"></a>
 ## 統計
 
 | 指標 | 値 |
 | --- | --- |
-| Prompt 数 | **62** |
+| Prompt 数 | **61** |
 | 作者数 | **41** |
 | タグ数 | **78** |
 | データセット最終更新 | **2026-04-17 17:03:57** |
@@ -69,7 +69,6 @@
 - [3D Render](#3d-render) (2)
 - [App UI](#app-ui) (2)
 - [Cinematic](#cinematic) (2)
-- [Fashion Photography](#fashion-photography) (2)
 - [Game Asset](#game-asset) (2)
 - [Infographic](#infographic) (2)
 - [Manga](#manga) (2)
@@ -80,6 +79,7 @@
 - [Crowd](#crowd) (1)
 - [Extreme Close-up](#extreme-close-up) (1)
 - [Fashion Apparel](#fashion-apparel) (1)
+- [Fashion Photography](#fashion-photography) (1)
 - [Landscape](#landscape) (1)
 - [Oil Painting](#oil-painting) (1)
 - [Product Mockup](#product-mockup) (1)
@@ -96,18 +96,18 @@
   </tr>
   <tr>
     <td width="33%" valign="top"><a href="#prompt-93"><img src="https://cdn-images.toolify.ai/x/20260417/1776416484_67256173.jpg" alt="Mystical Miao Maiden in Forest" /></a><br /><strong><a href="#prompt-93">Mystical Miao Maiden in Forest</a></strong><br /><sub>Cinematic, Film Still, Fantasy</sub></td>
-    <td width="33%" valign="top"><a href="#prompt-92"><img src="https://cdn-images.toolify.ai/x/20260417/1776416381_96482103.jpg" alt="Sporty Cinematic Film Portrait" /></a><br /><strong><a href="#prompt-92">Sporty Cinematic Film Portrait</a></strong><br /><sub>Fashion Photography, Portrait, Fashion Model</sub></td>
     <td width="33%" valign="top"><a href="#prompt-90"><img src="https://cdn-images.toolify.ai/x/20260417/1776416020_80160726.jpg" alt="Mona Lisa Drinking Cola Oil Painting" /></a><br /><strong><a href="#prompt-90">Mona Lisa Drinking Cola Oil Painting</a></strong><br /><sub>Oil Painting, Portrait, Beverage</sub></td>
+    <td width="33%" valign="top"><a href="#prompt-89"><img src="https://cdn-images.toolify.ai/x/20260417/1776416020_54463725.jpg" alt="Three-View Character Concept Sheet" /></a><br /><strong><a href="#prompt-89">Three-View Character Concept Sheet</a></strong><br /><sub>Concept Art, Storyboard, Manga</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><a href="#prompt-89"><img src="https://cdn-images.toolify.ai/x/20260417/1776416020_54463725.jpg" alt="Three-View Character Concept Sheet" /></a><br /><strong><a href="#prompt-89">Three-View Character Concept Sheet</a></strong><br /><sub>Concept Art, Storyboard, Manga</sub></td>
     <td width="33%" valign="top"><a href="#prompt-83"><img src="https://cdn-images.toolify.ai/x/20260417/1776414058_50339955.jpg" alt="Avant-Garde Studio Leather Fashion Portrait" /></a><br /><strong><a href="#prompt-83">Avant-Garde Studio Leather Fashion Portrait</a></strong><br /><sub>Fashion Photography, Full Body Shot, Studio Lighting</sub></td>
     <td width="33%" valign="top"><a href="#prompt-85"><img src="https://cdn-images.toolify.ai/x/20260417/1776414058_35175824.jpg" alt="Professional iOS App Interface Design" /></a><br /><strong><a href="#prompt-85">Professional iOS App Interface Design</a></strong><br /><sub>App UI, Web Design, Product Mockup</sub></td>
+    <td width="33%" valign="top"><a href="#prompt-81"><img src="https://cdn-images.toolify.ai/x/20260417/1776414058_26733979.jpg" alt="Stellar Blade: Eve's Holiday Battle" /></a><br /><strong><a href="#prompt-81">Stellar Blade: Eve's Holiday Battle</a></strong><br /><sub>Game Asset, Cinematic, Monster</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><a href="#prompt-81"><img src="https://cdn-images.toolify.ai/x/20260417/1776414058_26733979.jpg" alt="Stellar Blade: Eve's Holiday Battle" /></a><br /><strong><a href="#prompt-81">Stellar Blade: Eve's Holiday Battle</a></strong><br /><sub>Game Asset, Cinematic, Monster</sub></td>
     <td width="33%" valign="top"><a href="#prompt-84"><img src="https://cdn-images.toolify.ai/x/20260417/1776414058_64132488.jpg" alt="Anime Snapshot Aesthetic" /></a><br /><strong><a href="#prompt-84">Anime Snapshot Aesthetic</a></strong><br /><sub>Anime, Concept Art, Film Still</sub></td>
     <td width="33%" valign="top"><a href="#prompt-80"><img src="https://cdn-images.toolify.ai/x/20260417/1776414058_38013953.jpg" alt="A Thousand-Word Realistic Handwritten Diary" /></a><br /><strong><a href="#prompt-80">A Thousand-Word Realistic Handwritten Diary</a></strong><br /><sub>Photography, Documentary Photography, Typography</sub></td>
+    <td width="33%" valign="top"><a href="#prompt-79"><img src="https://cdn-images.toolify.ai/x/20260417/1776414058_57676790.jpg" alt="Champions League Player Highlight Card" /></a><br /><strong><a href="#prompt-79">Champions League Player Highlight Card</a></strong><br /><sub>Social Media Post, Infographic, Typography</sub></td>
   </tr>
 </table>
 
@@ -121,7 +121,7 @@
 
 > A professional sports highlight card featuring standout individual performance stats, bold team colors, and a clear score breakdown.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Champions League Player Highlight Card](https://cdn-images.toolify.ai/x/20260417/1776414058_57676790.jpg)
@@ -141,7 +141,7 @@ standout individual performance in Champion’s League, using exact stats and ga
 
 > A creative visualization of what an X (Twitter) post would look like for the founding Ming Emperor Zhu Yuanzhang following his coronation.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Zhu Yuanzhang's Imperial Social Media Post](https://cdn-images.toolify.ai/x/20260417/1776414058_40654005.jpg)
@@ -161,7 +161,7 @@ standout individual performance in Champion’s League, using exact stats and ga
 
 > A creative visualization of a modern social media feed featuring a historical dispute between famous Korean generals.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Ancient General's Social Media Feud](https://cdn-images.toolify.ai/x/20260417/1776389439_23079856.jpg)
@@ -181,7 +181,7 @@ standout individual performance in Champion’s League, using exact stats and ga
 
 > A realistic depiction of a Chinese beauty hosting a Douyin live stream, holding a customized thank-you sign.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Chinese Influencer Live Stream Interface](https://cdn-images.toolify.ai/x/20260417/1776389433_87062545.jpg)
@@ -201,7 +201,7 @@ standout individual performance in Champion’s League, using exact stats and ga
 
 > A creative visualization of Sakamoto Ryoma, a legendary Japanese samurai, as a modern social media influencer discussing the future.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Historical Figure's Modern Social Feed](https://cdn-images.toolify.ai/x/20260417/1776389436_98041774.jpg)
@@ -221,7 +221,7 @@ standout individual performance in Champion’s League, using exact stats and ga
 
 > A social media livestream interface featuring a celebrity holding a sign with custom text.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Livestream Screenshot with Celebrity Feature](https://cdn-images.toolify.ai/x/20260417/1776389429_84662456.jpg)
@@ -241,7 +241,7 @@ standout individual performance in Champion’s League, using exact stats and ga
 
 > A vibrant 9:16 portrait of a beautiful female influencer hosting a Douyin livestream, holding a sign with personalized text.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Douyin Livestream Beauty Screenshot](https://cdn-images.toolify.ai/x/20260417/1776389429_72434068.jpg)
@@ -261,7 +261,7 @@ standout individual performance in Champion’s League, using exact stats and ga
 
 > A creative historical reimagining of Oda Nobunaga's social media profile just moments before the Honno-ji Incident.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Oda Nobunaga's Final Social Media Post](https://cdn-images.toolify.ai/x/20260417/1776389415_99904494.jpg)
@@ -283,7 +283,7 @@ standout individual performance in Champion’s League, using exact stats and ga
 
 > A comprehensive character design reference featuring a three-view character layout and detailed setting documentation.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Three-View Character Concept Sheet](https://cdn-images.toolify.ai/x/20260417/1776416020_54463725.jpg)
@@ -303,7 +303,7 @@ standout individual performance in Champion’s League, using exact stats and ga
 
 > A comprehensive layout for creating official character design sheets, including orthographic views, expressions, and technical breakdowns.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Professional Character Concept Sheet Guide](https://cdn-images.toolify.ai/x/20260417/1776412317_98374223.jpg)
@@ -327,7 +327,7 @@ standout individual performance in Champion’s League, using exact stats and ga
 
 > A comprehensive character reference sheet featuring multiple views, expressions, and detailed equipment breakdowns in a clean concept art style.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Professional Character Concept Design Sheet](https://cdn-images.toolify.ai/x/20260417/1776412317_16841496.jpg)
@@ -347,7 +347,7 @@ standout individual performance in Champion’s League, using exact stats and ga
 
 > A comprehensive setting sheet layout featuring character designs and technical specifications in a clean, organized format.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![GPT Image Setting Sheet Style](https://cdn-images.toolify.ai/x/20260417/1776398238_89739845.jpg)
@@ -367,7 +367,7 @@ Setting sheet style, character design sheet, technical specifications, clean lay
 
 > A creative crossover featuring Link from Zelda: Tears of the Kingdom inside a modern E531 series train he constructed.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Link's Custom E531 Series Train](https://cdn-images.toolify.ai/x/20260417/1776392868_26630388.jpg)
@@ -389,7 +389,7 @@ In the game Zelda totk link is in a e531 series train made by him
 
 > A traditional Chinese poem rendered in flowing cursive calligraphy, showcasing the rhythmic beauty of ink strokes.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Chinese Cursive Calligraphy Poetry](https://cdn-images.toolify.ai/x/20260417/1776389441_58973370.jpg)
@@ -409,7 +409,7 @@ In the game Zelda totk link is in a e531 series train made by him
 
 > Explore the revolutionary text layout capabilities of GPT-image-2, enabling high-quality image generation from simple, single-sentence prompts.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Stunning Typography with GPT-image-2](https://cdn-images.toolify.ai/x/20260417/1776389427_45788877.jpg)
@@ -429,7 +429,7 @@ In the game Zelda totk link is in a e531 series train made by him
 
 > A tactile typography set where letters are intricately woven from high-performance carbon fibre. The design emphasizes a sleek, directional aesthetic with realistic textures.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Carbon Fibre Typography Performance](https://cdn-images.toolify.ai/x/20260417/1776389423_48858473.jpg)
@@ -449,7 +449,7 @@ Typography where every letterform is woven from carbon fibre. Tactile, direction
 
 > Showcasing advanced capabilities in generating complex layouts including newspapers, menus, textbooks, and traditional calendars with precise Chinese character rendering.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![GPT-image-2 Layout and Design Mastery](https://cdn-images.toolify.ai/x/20260417/1776389424_63204293.jpg)
@@ -472,7 +472,7 @@ Typography where every letterform is woven from carbon fibre. Tactile, direction
 
 > A stunning crystal-glass typeface where light refracts through each letterform into a vibrant spectrum of colors.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Refracted Sans Crystal Typeface](https://cdn-images.toolify.ai/x/20260417/1776389420_69082680.jpg)
@@ -494,7 +494,7 @@ A crystal-glass typeface where light splits through each letterform into its own
 
 > A professional character reference sheet featuring an anime-style idol design, perfect for VTubers and concept art. The layout showcases multiple angles and costume details in a clean, illustrative style.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Anime Character Idol Design Sheet](https://cdn-images.toolify.ai/x/20260417/1776416577_40818373.jpg)
@@ -514,7 +514,7 @@ anime character idol design sheet, character reference sheet, multiple views, co
 
 > A transformation of a real-life image into a high-quality snapshot from an actual anime series.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Anime Snapshot Aesthetic](https://cdn-images.toolify.ai/x/20260417/1776414058_64132488.jpg)
@@ -534,7 +534,7 @@ Show me the attached image as a snapshot from an actual anime
 
 > A striking anime-style illustration featuring two girls connected by fate or rivalry.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Anime Duel: Two Bound Girls](https://cdn-images.toolify.ai/x/20260417/1776389420_40455466.jpg)
@@ -554,7 +554,7 @@ Show me the attached image as a snapshot from an actual anime
 
 > A high-quality, aesthetic character render of Anna from the anime Makeine, captured in a clean and coherent art style.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Anna Yanami Anime Portrait](https://cdn-images.toolify.ai/x/20260417/1776389414_68008802.jpg)
@@ -576,7 +576,7 @@ Anna from the anime Makeine
 
 > A photorealistic portrait of an East Asian girl in a lavender hoodie, captured with soft lighting in a Japanese convenience store.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Vibrant Youthful Portrait in Neon Night](https://cdn-images.toolify.ai/x/20260417/1776416524_38419432.jpg)
@@ -596,7 +596,7 @@ A 22-year-old East Asian girl, round youthful face, large bright doe eyes with n
 
 > A high-end studio fashion portrait of a young Korean woman in tennis apparel, featuring flawless lighting and a minimalist aesthetic.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Korean Idol Tennis Editorial Portrait](https://cdn-images.toolify.ai/x/20260417/1776389443_67560166.jpg)
@@ -616,7 +616,7 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
 
 > A side-by-side comparison exploring the natural aesthetics and lighting nuances between different AI image generation models.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Natural Portrait Comparison](https://cdn-images.toolify.ai/x/20260417/1776389417_83764869.jpg)
@@ -636,7 +636,7 @@ Midjourney 8.1 vs GPT Image 2 comparison, natural lighting, high resolution port
 
 > An intimate, low-angle 35mm film portrait of a young woman in a stylish policewoman-inspired outfit, captured with a raw, direct flash aesthetic.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Analog High-Fashion Police Editorial Portrait](https://cdn-images.toolify.ai/x/20260417/1776389412_10595928.jpg)
@@ -658,7 +658,7 @@ Analog 35mm film photography, high-fashion editorial portrait with intense on-ca
 
 > A sleek, stitch-less leather wallet featuring a monolithic design with no visible openings or clasps.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Minimalist Seamless Leather Wallet](https://cdn-images.toolify.ai/x/20260417/1776389413_85673449.jpg)
@@ -678,7 +678,7 @@ A leather wallet with no stitching, no clasp, no visible opening.
 
 > A sleek, buttonless timepiece featuring a seamless sealed case that adjusts itself automatically.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![The Crownless Minimalist Watch](https://cdn-images.toolify.ai/x/20260417/1776389411_34913115.jpg)
@@ -698,7 +698,7 @@ A watch with no crown, no buttons — a sealed case that sets itself.
 
 > A revolutionary bottle design with no opening where the fragrance permeates directly through the glass.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![The Capless Perfume Bottle](https://cdn-images.toolify.ai/x/20260417/1776389410_84531516.jpg)
@@ -720,7 +720,7 @@ A bottle with no opening — scent releases through the glass itself.
 
 > A high-quality simulation of a Douyin livestream screenshot featuring a female host in traditional Chinese style aesthetics.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Chinese Style Livestreamer Interface](https://cdn-images.toolify.ai/x/20260417/1776399721_72228592.jpg)
@@ -740,7 +740,7 @@ A bottle with no opening — scent releases through the glass itself.
 
 > A high-fidelity depiction of a female influencer hosting a live broadcast on a social media platform.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Influencer Live Streaming Interface](https://cdn-images.toolify.ai/x/20260417/1776389446_35000737.jpg)
@@ -760,7 +760,7 @@ A bottle with no opening — scent releases through the glass itself.
 
 > A realistic social media interface screenshot featuring an influencer holding a custom sign during a live broadcast.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Douyin Livestream Influencer Portrait](https://cdn-images.toolify.ai/x/20260417/1776389431_46164671.jpg)
@@ -782,7 +782,7 @@ A screenshot of a Douyin livestream, 9:16 aspect ratio, featuring a beautiful wo
 
 > A nostalgic 1960s-inspired illustration of the Amalfi Coast featuring a classic white car on a winding cliffside road.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Vintage Amalfi Coast Travel Poster](https://cdn-images.toolify.ai/x/20260417/1776389416_89205812.jpg)
@@ -802,7 +802,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 > A highly detailed movie poster featuring an intelligent gorilla thriving in a modern human city through professional work.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Urban Intellectual Gorilla Movie Poster](https://cdn-images.toolify.ai/x/20260417/1776389439_61130739.jpg)
@@ -822,7 +822,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 > Explore the multi-style capabilities of OpenAI's latest model, ranging from handwritten notes to high-fidelity anime art.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 **作者:** Mikel
@@ -843,7 +843,7 @@ handwritten notes, realistic ads, posters, anime art
 
 > An ultra-realistic 3D illustration of an X profile interface where characters dynamically break through torn paper. It features a mix of cinematic lighting and a clean minimalist background.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![3D Dynamic X Profile Breakthrough](https://cdn-images.toolify.ai/x/20260417/1776412542_51903913.jpg)
@@ -863,7 +863,7 @@ Ultra-realistic 3D Twitter/X profile interface illustration, slightly tilted, cl
 
 > A dynamic 3D illustration featuring a stylish character bursting through a social media interface with realistic paper effects.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![3D Social Media Breakthrough Design](https://cdn-images.toolify.ai/x/20260417/1776389426_92548719.jpg)
@@ -885,7 +885,7 @@ A hyper-realistic 3D illustration of a Twitter/X profile interface, slightly til
 
 > A high-end, professional UI design for an iOS application mobile page, featuring a clean and modern layout similar to major financial platforms.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Professional iOS App Interface Design](https://cdn-images.toolify.ai/x/20260417/1776414058_35175824.jpg)
@@ -905,7 +905,7 @@ Render a professional IOS APP page image, similar to Binance, professional-grade
 
 > A clean and modern user interface showcasing a music generation feature integrated within a mobile app environment.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![ChatGPT Music Generator Interface](https://cdn-images.toolify.ai/x/20260417/1776389416_77385723.jpg)
@@ -927,7 +927,7 @@ Screenshot of a music generator feature inside ChatGPT
 
 > A hauntingly beautiful cinematic still featuring a Miao girl in a damp, mystical forest at night. The scene blends traditional silver ornaments with ethereal blue moonlight and glowing spirits.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Mystical Miao Maiden in Forest](https://cdn-images.toolify.ai/x/20260417/1776416484_67256173.jpg)
@@ -947,7 +947,7 @@ Screenshot of a music generator feature inside ChatGPT
 
 > A high-fidelity cinematic scene capturing the iconic aesthetic of GTA 6, featuring vibrant urban life and realistic lighting.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![GTA 6 Style Urban Realism](https://cdn-images.toolify.ai/x/20260417/1776389449_22851335.jpg)
@@ -962,48 +962,6 @@ GTA 6 style cinematic scene, urban environment, high fidelity, hyper-realistic l
 
 </details>
 
-### Fashion Photography
-
-<a id="prompt-92"></a>
-#### 1. Sporty Cinematic Film Portrait
-
-> A high-fashion editorial portrait of a Chinese idol on a basketball court, captured with the raw aesthetic of 35mm film and harsh direct flash.
-
-<details>
-<summary>Prompt、プレビュー、メタデータを表示</summary>
-
-![Sporty Cinematic Film Portrait](https://cdn-images.toolify.ai/x/20260417/1776416381_96482103.jpg)
-**作者:** BubbleBrain
-**ソース:** [元投稿を開く](https://x.com/BubbleBrain/status/2045052982728016131)
-**タグ:** Fashion Photography, Portrait, Fashion Model, Photography, Film Still
-**更新日:** 2026-04-17
-
-```text
-35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate first-person low-angle POV shot from below, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights, fine delicate skin texture with subtle pores micro details and natural dewy glow under flash, fresh natural sporty makeup with soft dewy glow, subtle natural flush on cheeks, natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands, wearing a loose white tank top and white high-waisted basketball shorts, white knee-high sports socks, seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk, body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve, one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs, both hands lightly resting on the basketball pole at shoulder height, intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire, harsh direct on-camera flash creating sharp specular highlights and strong catchlights, background with blurred basketball court and hoop under dusk sky, high contrast film color grading with natural flash look, extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic, natural hair strands, realistic fabric texture on tank top and shorts with socks detail, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm direct flash film basketball court look --ar 9:16
-```
-
-</details>
-
-<a id="prompt-83"></a>
-#### 2. Avant-Garde Studio Leather Fashion Portrait
-
-> A striking full-body shot of a woman in burgundy leather, capturing an avant-garde pose with high-flash grainy aesthetics.
-
-<details>
-<summary>Prompt、プレビュー、メタデータを表示</summary>
-
-![Avant-Garde Studio Leather Fashion Portrait](https://cdn-images.toolify.ai/x/20260417/1776414058_50339955.jpg)
-**作者:** Wicked Viper
-**ソース:** [元投稿を開く](https://x.com/404_WICKEDVIPER/status/2031980498030116937)
-**タグ:** Fashion Photography, Full Body Shot, Studio Lighting, Photography, Gradient Background
-**更新日:** 2026-04-17
-
-```text
-a full body shot in a studio shows an avant garde angle of a woman bending backwards looking up at the ceiling wearing a burgundy red leather strappy top with metal details, her one hand holding her neck with white manicured fingernails and the other hand on her hip, she is looking away from the camera with her hair slicked back with shiny blonde hair and brown roots, her legs kneeling, black and grey heavy gradient background, in the style of flash photography, she is shimmering in a high flash grainy image
-```
-
-</details>
-
 ### Game Asset
 
 <a id="prompt-81"></a>
@@ -1011,7 +969,7 @@ a full body shot in a studio shows an avant garde angle of a woman bending backw
 
 > A high-quality cinematic game still featuring Eve from Stellar Blade in a festive Christmas outfit fighting monsters on Eidos 7.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Stellar Blade: Eve's Holiday Battle](https://cdn-images.toolify.ai/x/20260417/1776414058_26733979.jpg)
@@ -1031,7 +989,7 @@ a full body shot in a studio shows an avant garde angle of a woman bending backw
 
 > A professionally designed video game cover featuring a unique character composition for a simulator title.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Discord Mod Simulator Game Cover](https://cdn-images.toolify.ai/x/20260417/1776389418_40975601.jpg)
@@ -1053,7 +1011,7 @@ Cover switch game : Discord Mod Simulator
 
 > A structured and detailed comparison chart showcasing various AI companies with clear text and organized layouts.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![AI Company Comparison Infographic](https://cdn-images.toolify.ai/x/20260417/1776392868_75045988.jpg)
@@ -1073,7 +1031,7 @@ Cover switch game : Discord Mod Simulator
 
 > A crystal-clear infographic style with incredibly dense details and perfect text rendering.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![High-Density Informational Illustration](https://cdn-images.toolify.ai/x/20260417/1776389424_41760738.jpg)
@@ -1095,7 +1053,7 @@ high-density information infographic style, detailed illustrated guide style
 
 > A multi-page manga sequence generated from a single descriptive prompt, showcasing sequential storytelling capabilities.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![One-Shot AI Manga Generation](https://cdn-images.toolify.ai/x/20260417/1776389438_68222450.jpg)
@@ -1115,7 +1073,7 @@ high-density information infographic style, detailed illustrated guide style
 
 > A dynamic double-page manga spread featuring Hatsune Miku in a fierce battle against monsters, showcasing beautiful artwork and cool dialogue.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Hatsune Miku vs. Monstrous Threat](https://cdn-images.toolify.ai/x/20260417/1776389437_83992847.jpg)
@@ -1137,7 +1095,7 @@ high-density information infographic style, detailed illustrated guide style
 
 > A highly detailed and realistic image of a diary entry featuring dense, legible text and a personal journaling aesthetic.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![A Thousand-Word Realistic Handwritten Diary](https://cdn-images.toolify.ai/x/20260417/1776414058_38013953.jpg)
@@ -1157,7 +1115,7 @@ high-density information infographic style, detailed illustrated guide style
 
 > A realistic amateur photograph of an open notebook featuring casual handwritten notes and natural ink imperfections on a desk.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Natural Handwritten Notebook Study](https://cdn-images.toolify.ai/x/20260417/1776389415_34695802.jpg)
@@ -1179,7 +1137,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 > A serene portrait of a young woman in a cozy bedroom setting, illuminated by the warm glow of the golden hour.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Natural Golden Hour Mirror Selfie](https://cdn-images.toolify.ai/x/20260417/1776404938_86368844.jpg)
@@ -1199,7 +1157,7 @@ A stunning 18-year-old Chinese girl with a youthful, pure face and realistic ski
 
 > A realistic portrait capturing Paul Rudd in a casual selfie style, focused on a natural and candid moment.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Paul Rudd Celebrity Selfie](https://cdn-images.toolify.ai/x/20260417/1776392868_85678627.jpg)
@@ -1221,7 +1179,7 @@ Photo with {celebrities}.Taking a selfie: Paul Rudd (in the center).(show the se
 
 > An ultra-realistic, imperfect car shot designed to look like a rushed, unedited phone photo taken on a street corner.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Candid Accidental Automotive Photography](https://cdn-images.toolify.ai/x/20260417/1776416611_30142643.jpg)
@@ -1243,7 +1201,7 @@ Ultra-realistic candid automotive photograph that does NOT look staged or intent
 
 > A mature modern couple depicted in a sophisticated Shoujo manga style using an acrylic watercolor oil painting technique.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Modern Couple in Acrylic Watercolor Style](https://cdn-images.toolify.ai/x/20260417/1776389432_79682682.jpg)
@@ -1265,7 +1223,7 @@ Acrylic watercolor oil painting + modern mature couple, shoujo manga style, not 
 
 > An amateur-style iPhone photo capturing the excitement of a high-tech keynote event from a distance.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![iPhone Keynote at Apple Park](https://cdn-images.toolify.ai/x/20260417/1776389414_81906719.jpg)
@@ -1287,7 +1245,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 > A breathtaking four-panel composition featuring hyper-realistic eye close-ups, each themed after one of the four seasons with intricate floral and atmospheric details.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Seasons of the Soulful Eye](https://cdn-images.toolify.ai/x/20260417/1776404938_11811534.jpg)
@@ -1319,7 +1277,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 > A sleek jacket featuring a seamless construction without zips or buttons for a perfect, fluid closure.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Minimalist Seamless Jacket Design](https://cdn-images.toolify.ai/x/20260417/1776389410_60264449.jpg)
@@ -1334,6 +1292,28 @@ A jacket with no zip, no buttons, no fastening — closes perfectly.
 
 </details>
 
+### Fashion Photography
+
+<a id="prompt-83"></a>
+#### 1. Avant-Garde Studio Leather Fashion Portrait
+
+> A striking full-body shot of a woman in burgundy leather, capturing an avant-garde pose with high-flash grainy aesthetics.
+
+<details open>
+<summary>Prompt、プレビュー、メタデータを表示</summary>
+
+![Avant-Garde Studio Leather Fashion Portrait](https://cdn-images.toolify.ai/x/20260417/1776414058_50339955.jpg)
+**作者:** Wicked Viper
+**ソース:** [元投稿を開く](https://x.com/404_WICKEDVIPER/status/2031980498030116937)
+**タグ:** Fashion Photography, Full Body Shot, Studio Lighting, Photography, Gradient Background
+**更新日:** 2026-04-17
+
+```text
+a full body shot in a studio shows an avant garde angle of a woman bending backwards looking up at the ceiling wearing a burgundy red leather strappy top with metal details, her one hand holding her neck with white manicured fingernails and the other hand on her hip, she is looking away from the camera with her hair slicked back with shiny blonde hair and brown roots, her legs kneeling, black and grey heavy gradient background, in the style of flash photography, she is shimmering in a high flash grainy image
+```
+
+</details>
+
 ### Landscape
 
 <a id="prompt-32"></a>
@@ -1341,7 +1321,7 @@ A jacket with no zip, no buttons, no fastening — closes perfectly.
 
 > A professional design featuring a realistic landscape calendar and a traditional Chinese almanac for April 16, 2026.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![2026 Landscape and Almanac Calendars](https://cdn-images.toolify.ai/x/20260417/1776389427_32009933.jpg)
@@ -1364,7 +1344,7 @@ A jacket with no zip, no buttons, no fastening — closes perfectly.
 
 > A humorous and seamless oil painting reimagining the Mona Lisa enjoying a refreshing soft drink.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Mona Lisa Drinking Cola Oil Painting](https://cdn-images.toolify.ai/x/20260417/1776416020_80160726.jpg)
@@ -1386,7 +1366,7 @@ A jacket with no zip, no buttons, no fastening — closes perfectly.
 
 > An authentic amateur smartphone photo of an open magazine spread showcasing an article about GPT Image 2.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![GPT Image 2 Magazine Feature](https://cdn-images.toolify.ai/x/20260417/1776389421_86934964.jpg)
@@ -1408,7 +1388,7 @@ Amateur phone photo of an open magazine spread across two pages, featuring an ar
 
 > A unique creative concept imagining a famous historical figure's social media profile page during a pivotal moment.
 
-<details>
+<details open>
 <summary>Prompt、プレビュー、メタデータを表示</summary>
 
 ![Historical Figure's Modern Profile Mockup](https://cdn-images.toolify.ai/x/20260417/1776399721_68753995.jpg)
